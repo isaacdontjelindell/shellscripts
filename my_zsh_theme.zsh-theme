@@ -2,7 +2,7 @@
 PROMPT="
 %{$fg_bold[white]%}%n%{$reset_color%}%{$fg[white]%}@%{$fg[white]%}%m %{$fg[green]%}%~
 %{$fg[white]%}$ %{$fg[white]%}"
-RPROMPT="%{$fg[grey]%}[%W %t]%{$reset_color%}"
+RPROMPT="%{$fg[white]%}[%W %t]%{$reset_color%}"
 
 #ZSH_THEME_GIT_PROMPT_PREFIX="git:(%{$fg[red]%}"
 #ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
