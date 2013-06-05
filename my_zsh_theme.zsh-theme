@@ -2,8 +2,6 @@
 PROMPT="
 %{$fg_bold[white]%}%n%{$reset_color%}%{$fg[white]%}@%{$fg[white]%}%m %{$fg[green]%}%~
 %{$fg[white]%}$ %{$fg[white]%}"
-#RPROMPT="%{$fg[white]%}[%W %t]%{$reset_color%}"
-RPROMPT=RPS1
 
 
 ZSH_THEME_GIT_PROMPT_PREFIX="git:(%{$fg[red]%}"
@@ -48,4 +46,8 @@ function __git_prompt {
   fi
 }
  
-export RPS1='$(__git_prompt)'
+function __time_prompt {
+    echo -n "%{$fg[white]%}[%D{%-l:%M %p}]%{$reset_color%}"
+}
+    
+RPROMPT='$(__git_prompt)$(__time_prompt)'
