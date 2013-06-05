@@ -16,9 +16,9 @@ autoload colors zsh/terminfo
 colors
  
 function __git_prompt {
-  local DIRTY="%{$fg[yellow]%}"
+  local DIRTY="%{$fg[red]%}"
   local CLEAN="%{$fg[green]%}"
-  local UNMERGED="%{$fg[red]%}"
+  local UNMERGED="%{$fg[yellow]%}"
   local RESET="%{$terminfo[sgr0]%}"
   git rev-parse --git-dir >& /dev/null
   if [[ $? == 0 ]]
