@@ -54,7 +54,7 @@ function ssh_connection() {
 
 
 PROMPT="
-$(ssh_connection) %{$fg_bold[white]%}%n%{$reset_color%}%{$fg[white]%}@%{$fg[white]%}%m %{$fg[green]%}%~
+$(ssh_connection)%{$fg_bold[white]%}%n%{$reset_color%}%{$fg[white]%}@%{$fg[white]%}%m %{$fg[green]%}%~
 %{$fg[white]%}$ %{$fg[white]%}"
 
 RPROMPT='$(__git_prompt)$(__time_prompt)'
