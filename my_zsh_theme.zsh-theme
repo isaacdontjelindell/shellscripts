@@ -1,6 +1,6 @@
 #PROMPT='%{$fg_bold[red]%}➜ %{$fg_bold[green]%}%p %{$fg[cyan]%}%c %{$fg_bold[blue]%}$(git_prompt_info)%{$fg_bold[blue]%} % %{$reset_color%}'
 PROMPT="
-%{$fg_bold[white]%}%n%{$reset_color%}%{$fg[white]%}@%{$fg[white]%}%m %{$fg[green]%}%~
+$(ssh_connection) %{$fg_bold[white]%}%n%{$reset_color%}%{$fg[white]%}@%{$fg[white]%}%m %{$fg[green]%}%~
 %{$fg[white]%}$ %{$fg[white]%}"
 
 
@@ -49,5 +49,12 @@ function __git_prompt {
 function __time_prompt {
     echo -n "%{$fg[white]%}[%D{%-l:%M %p}]%{$reset_color%}"
 }
-    
+
+function ssh_connection() {
+  if [[ -n $SSH_CONNECTION ]]; then
+    echo "%{$fg_bold[red]%}(ssh) "
+  fi
+}
+
+
 RPROMPT='$(__git_prompt)$(__time_prompt)'
