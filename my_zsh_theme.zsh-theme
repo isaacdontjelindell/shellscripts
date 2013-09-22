@@ -1,8 +1,4 @@
 #PROMPT='%{$fg_bold[red]%}➜ %{$fg_bold[green]%}%p %{$fg[cyan]%}%c %{$fg_bold[blue]%}$(git_prompt_info)%{$fg_bold[blue]%} % %{$reset_color%}'
-PROMPT="
-$(ssh_connection) %{$fg_bold[white]%}%n%{$reset_color%}%{$fg[white]%}@%{$fg[white]%}%m %{$fg[green]%}%~
-%{$fg[white]%}$ %{$fg[white]%}"
-
 
 ZSH_THEME_GIT_PROMPT_PREFIX="git:(%{$fg[red]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
@@ -56,5 +52,9 @@ function ssh_connection() {
   fi
 }
 
+
+PROMPT="
+$(ssh_connection) %{$fg_bold[white]%}%n%{$reset_color%}%{$fg[white]%}@%{$fg[white]%}%m %{$fg[green]%}%~
+%{$fg[white]%}$ %{$fg[white]%}"
 
 RPROMPT='$(__git_prompt)$(__time_prompt)'
