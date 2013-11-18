@@ -47,5 +47,3 @@ export GOROOT=/usr/local/go
 export PATH="/usr/local/heroku/bin:$PATH"
 alias bd=". bd -s"
 
-bindkey -v
-bindkey '^R' history-incremental-search-backward
