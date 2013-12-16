@@ -68,10 +68,11 @@ function __git_prompt {
     fi
     
     # check if there are untracked files
-    if [[ $(git_num_untracked_files) != 0 ]]
-    then 
+    local num_untracked=$(git_num_untracked_files)
+    if [[ num_untracked -ne 0 ]]; then
         echo -n $UNTRACKED
         echo -n " ⚑"
+        echo -n $num_untracked
     fi
 
     echo -n $RESET
@@ -89,7 +90,7 @@ function ssh_connection() {
   fi
 }
 
-function git_num_untracked_files {
+function git_num_untracked_files() {
   expr `git status --porcelain 2>/dev/null| grep "^??" | wc -l` 
 }
 
