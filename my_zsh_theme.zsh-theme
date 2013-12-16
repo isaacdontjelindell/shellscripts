@@ -13,7 +13,11 @@ function __git_prompt {
   local DIRTY="%{$fg[red]%}"
   local CLEAN="%{$fg[green]%}"
   local UNMERGED="%{$fg[yellow]%}"
+  local AHEAD="%{$fg[yellow]%}"
   local RESET="%{$terminfo[sgr0]%}"
+  local ahead behind remote
+  local -a gitstatus
+
   git rev-parse --git-dir >& /dev/null
   if [[ $? == 0 ]]
   then
@@ -37,6 +41,23 @@ function __git_prompt {
       echo -n $UNMERGED
     fi
     echo -n `git branch | grep '* ' | sed 's/..//'`
+    
+    # Are we on a remote-tracking branch?
+    remote=${$(git rev-parse --verify ${hook_com[branch]}@{upstream} \
+        --symbolic-full-name 2>/dev/null)/refs\/remotes\/}
+
+    if [[ -n ${remote} ]] ; then
+        ahead=$(git rev-list ${hook_com[branch]}@{upstream}..HEAD 2>/dev/null | wc -l)
+        (( $ahead )) && gitstatus+=( "${c3}+${ahead}${c2}" )
+
+        behind=$(git rev-list HEAD..${hook_com[branch]}@{upstream} 2>/dev/null | wc -l)
+        (( $behind )) && gitstatus+=( "${c4}-${behind}${c2}" )
+
+        echo -n $AHEAD # set color
+        
+        echo -n " "↑$ahead
+        echo -n ↓$behind
+    fi
     echo -n $RESET
     echo -n "]"
   fi
