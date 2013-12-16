@@ -41,7 +41,7 @@ function __git_prompt {
     else
       echo -n $UNMERGED
     fi
-    echo -n `git branch | grep '* ' | sed 's/..//'`" "
+    echo -n `git branch | grep '* ' | sed 's/..//'`
     
     # Are we on a remote-tracking branch?
     remote=${$(git rev-parse --verify ${hook_com[branch]}@{upstream} \
@@ -56,6 +56,9 @@ function __git_prompt {
 
         echo -n $AHEAD # set color
         
+        if [[ $ahead != 0 || $behind != 0 ]]; then
+            echo -n " "
+        fi
         if [[ $ahead != 0 ]]; then 
             echo -n ↑$ahead
         fi
