@@ -14,6 +14,7 @@ function __git_prompt {
   local CLEAN="%{$fg[green]%}"
   local UNMERGED="%{$fg[yellow]%}"
   local AHEAD="%{$fg[yellow]%}"
+  local UNTRACKED="%{$fg[yellow]%}"
   local RESET="%{$terminfo[sgr0]%}"
   local ahead behind remote
   local -a gitstatus
@@ -42,6 +43,13 @@ function __git_prompt {
     fi
     echo -n `git branch | grep '* ' | sed 's/..//'`
     
+    # check if there are untracked files
+    if [[ $(git_num_untracked_files) != 0 ]]
+    then 
+        echo -n $UNTRACKED
+        echo -n " ⚑"
+    fi
+
     # Are we on a remote-tracking branch?
     remote=${$(git rev-parse --verify ${hook_com[branch]}@{upstream} \
         --symbolic-full-name 2>/dev/null)/refs\/remotes\/}
@@ -55,8 +63,12 @@ function __git_prompt {
 
         echo -n $AHEAD # set color
         
-        echo -n " "↑$ahead
-        echo -n ↓$behind
+        if [[ $ahead != 0 ]]; then 
+            echo -n ↑$ahead
+        fi
+        if [[ $behind != 0 ]]; then
+            echo -n ↓$behind
+        fi
     fi
     echo -n $RESET
     echo -n "]"
@@ -71,6 +83,10 @@ function ssh_connection() {
   if [[ -n $SSH_CONNECTION ]]; then
     echo "%{$fg_bold[red]%}(ssh) "
   fi
+}
+
+function git_num_untracked_files {
+  expr `git status --porcelain 2>/dev/null| grep "^??" | wc -l` 
 }
 
 
