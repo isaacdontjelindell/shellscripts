@@ -13,7 +13,7 @@ function __git_prompt {
   local DIRTY="%{$fg[red]%}"
   local CLEAN="%{$fg[green]%}"
   local UNMERGED="%{$fg[yellow]%}"
-  local AHEAD="%{$fg[yellow]%}"
+  local AHEAD="%{$fg[blue]%}"
   local UNTRACKED="%{$fg[yellow]%}"
   local RESET="%{$terminfo[sgr0]%}"
   local ahead behind remote
@@ -41,15 +41,8 @@ function __git_prompt {
     else
       echo -n $UNMERGED
     fi
-    echo -n `git branch | grep '* ' | sed 's/..//'`
+    echo -n `git branch | grep '* ' | sed 's/..//'`" "
     
-    # check if there are untracked files
-    if [[ $(git_num_untracked_files) != 0 ]]
-    then 
-        echo -n $UNTRACKED
-        echo -n " ⚑"
-    fi
-
     # Are we on a remote-tracking branch?
     remote=${$(git rev-parse --verify ${hook_com[branch]}@{upstream} \
         --symbolic-full-name 2>/dev/null)/refs\/remotes\/}
@@ -70,6 +63,14 @@ function __git_prompt {
             echo -n ↓$behind
         fi
     fi
+    
+    # check if there are untracked files
+    if [[ $(git_num_untracked_files) != 0 ]]
+    then 
+        echo -n $UNTRACKED
+        echo -n " ⚑"
+    fi
+
     echo -n $RESET
     echo -n "]"
   fi
