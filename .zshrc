@@ -47,3 +47,5 @@ export GOROOT=/usr/local/go
 export PATH="/usr/local/heroku/bin:$PATH"
 alias bd=". bd -s"
 
+
+alias rake="noglob rake"
