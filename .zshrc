@@ -42,4 +42,8 @@ export PATH=$PATH:.:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr
 
 alias rake="noglob rake"
 
+unsetopt autonamedirs
+gop () { export GOPATH=$(pwd); echo "Export GOPATH success. Now set to pwd." }
+
+
 [[ -s "$HOME/.gvm/scripts/gvm" ]] && source "$HOME/.gvm/scripts/gvm"
