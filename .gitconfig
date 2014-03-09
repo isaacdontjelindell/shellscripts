@@ -1,5 +1,5 @@
 [push]
-	default = simple
+	default = upstream
 [user]
 	email = git@isaacdontjelindell.com
     name = Isaac Dontje Lindell
