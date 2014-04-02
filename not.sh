@@ -1,3 +1,3 @@
 #!/bin/bash
 
-notify-send -u critical "Terminal Job Finished" "______________________"
+notify-send "Terminal Job Finished" "______________________"
