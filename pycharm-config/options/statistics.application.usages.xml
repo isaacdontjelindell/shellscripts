@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="northapps" values="Git" />
+      <project id="SumTime" values="Git" />
+      <project id="youtube-jukebox" values="Git" />
+      <project id="NorthApps" values="Git" />
+      <project id="pi-data" values="Git" />
+      <project id="TapVote" values="Git" />
+      <project id="runestone" values="Git" />
+      <project id="skulpt" values="Git" />
+      <project id="verso" values="Git" />
+      <project id="alpha-recycle" values="Git" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="youtube-jukebox" values="PythonConfigurationType" />
+    </group>
+    <group name="module type">
+      <project id="northapps" values="PYTHON_MODULE" />
+      <project id="SumTime" values="PYTHON_MODULE" />
+      <project id="youtube-jukebox" values="PYTHON_MODULE" />
+      <project id="NorthApps" values="PYTHON_MODULE" />
+      <project id="pi-data" values="PYTHON_MODULE" />
+      <project id="TapVote" values="PYTHON_MODULE" />
+      <project id="runestone" values="PYTHON_MODULE" />
+      <project id="skulpt" values="PYTHON_MODULE" />
+      <project id="verso" values="PYTHON_MODULE" />
+      <project id="alpha-recycle" values="PYTHON_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="northapps" values="CSS,UNKNOWN,HTML,PLAIN_TEXT,JavaScript,XML" />
+      <project id="SumTime" values="CSS,JavaScript,PLAIN_TEXT,HTML,UNKNOWN,XML" />
+      <project id="youtube-jukebox" values="XML,Python,UNKNOWN,HTML,PLAIN_TEXT" />
+      <project id="NorthApps" values="UNKNOWN,XML" />
+      <project id="pi-data" values="PLAIN_TEXT,Python,UNKNOWN,XML" />
+      <project id="TapVote" values="XML,PATCH,DTD,YAML,HTML,JSHint,C++,JSON,CSS,UNKNOWN,Images,Stylus,SQL,PLAIN_TEXT,Python,JavaScript" />
+      <project id="runestone" values="HTML,C++,ReST,ARCHIVE,Python,UNKNOWN,Images,YAML,CSS,JavaScript,XML,PLAIN_TEXT,JSON,Web2Py,Native" />
+      <project id="skulpt" values="CSS,Native,Python,XML,ARCHIVE,C++,UNKNOWN,YAML,JavaScript,Images,HTML,PLAIN_TEXT,ReST,JSON" />
+      <project id="verso" values="UNKNOWN,JavaScript,Images,PLAIN_TEXT,XML,HTML,CSS" />
+      <project id="alpha-recycle" values="Images,UNKNOWN,JavaScript,PLAIN_TEXT,XML,CSS,HTML" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="pi-data" values="PythonConfigurationType" />
+      <project id="runestone" values="PythonConfigurationType,tests.Unittests" />
+      <project id="skulpt" values="PythonConfigurationType" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="northapps" values="Project,Project" />
+      <project id="SumTime" values="Project,Project" />
+      <project id="youtube-jukebox" values="Project,Project" />
+      <project id="NorthApps" values="Project,Project" />
+      <project id="pi-data" values="Project,Project" />
+      <project id="TapVote" values="Project,Project" />
+      <project id="skulpt" values="Project,Project" />
+      <project id="verso" values="Project,Project" />
+      <project id="alpha-recycle" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="northapps" values="DEFAULT" />
+      <project id="SumTime" values="DEFAULT" />
+      <project id="youtube-jukebox" values="DEFAULT" />
+      <project id="NorthApps" values="DEFAULT" />
+      <project id="pi-data" values="DEFAULT" />
+      <project id="TapVote" values="DEFAULT" />
+      <project id="runestone" values="DEFAULT" />
+      <project id="skulpt" values="DEFAULT" />
+      <project id="verso" values="DEFAULT" />
+      <project id="alpha-recycle" values="DEFAULT" />
+    </group>
+    <group name="py-interpreter">
+      <project id="northapps" values="Python 3.3.1" />
+      <project id="SumTime" values="Python 3.3.1" />
+      <project id="youtube-jukebox" values="Python 2.7.4" />
+      <project id="NorthApps" values="Python 3.3.1" />
+      <project id="pi-data" values="Python 2.7.4" />
+      <project id="TapVote" values="Python 3.3.1" />
+      <project id="runestone" values="Python 2.7.4" />
+      <project id="skulpt" values="Python 3.3.1" />
+      <project id="verso" values="Python 3.3.1" />
+      <project id="alpha-recycle" values="Python 2.7.4" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="47" />
+      <entry feature="NewDirectoryProjectAction.Empty project" count="1" />
+      <entry feature="execute.PythonConfigurationType.Coverage" count="1" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="4" />
+      <entry feature="execute.PythonConfigurationType.Run" count="41" />
+    </counts>
+  </component>
+</application>
+
