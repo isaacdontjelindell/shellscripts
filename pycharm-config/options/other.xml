@@ -141,7 +141,6 @@
     <option name="names">
       <map>
         <entry key="$USER_HOME$/github/SumTime" value="" />
-        <entry key="$USER_HOME$/github/TapVote" value="" />
         <entry key="$USER_HOME$/github/alpha-recycle" value="" />
         <entry key="$USER_HOME$/github/duty-calls" value="" />
         <entry key="$USER_HOME$/github/northapps" value="" />
@@ -198,8 +197,8 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1397157780724" />
-    <option name="LAST_BUILD_CHECKED" value="PY-133.881" />
+    <option name="LAST_TIME_CHECKED" value="1397589760242" />
+    <option name="LAST_BUILD_CHECKED" value="PY-133.1229" />
     <option name="UPDATE_CHANNEL_TYPE" value="eap" />
   </component>
   <component name="VFSTestFrameworkListener">

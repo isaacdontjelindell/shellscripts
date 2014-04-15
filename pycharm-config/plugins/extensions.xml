@@ -25,6 +25,30 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.ad">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.adoc">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.aidl">
       <plugins>
         <option name="myPlugins">
@@ -44,6 +68,30 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.aspectj" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.asc">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.asciidoc">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myBundled" value="false" />
             </plugin>
           </set>
         </option>
@@ -115,6 +163,18 @@
           <set>
             <plugin>
               <option name="myPluginId" value="BEM Support" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.bpmn">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="actiBPM" />
               <option name="myBundled" value="false" />
             </plugin>
           </set>
@@ -263,6 +323,18 @@
           <set>
             <plugin>
               <option name="myPluginId" value="Lua" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.dot">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.webschik.doT" />
               <option name="myBundled" value="false" />
             </plugin>
           </set>
@@ -1169,6 +1241,18 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.psf">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="de.bewalt.intellij.plugin.psl" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.psql">
       <plugins>
         <option name="myPlugins">
@@ -1312,6 +1396,18 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.sel">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="fr.assoba.open.sel.plugin" />
+              <option name="myBundled" value="false" />
             </plugin>
           </set>
         </option>

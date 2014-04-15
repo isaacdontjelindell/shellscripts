@@ -22,7 +22,7 @@
     <location key="git4idea.push.GitPushDialog.0.0.2048.1152" x="497" y="209" />
     <location key="FileChooserDialogImpl.1366.0.1440.900" x="1886" y="315" />
     <location key="ProcessPopupWindow.0.0.1366.768" x="1030" y="595" />
-    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.0.0.1366.768" x="445" y="628" />
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.0.0.1366.768" x="445" y="629" />
     <location key="git4idea.push.GitPushDialog.1366.0.1440.900" x="1731" y="363" />
     <location key="FileChooserDialogImpl.0.256.1366.768" x="478" y="392" />
     <location key="OptionsEditor.0.0.2048.1152" x="424" y="175" />
@@ -34,7 +34,7 @@
     <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.0.0.0.0" x="765" y="559" />
     <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.1366.768" x="194" y="115" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1366.0.1280.1024" x="1856" y="199" />
-    <location key="WELCOME_SCREEN.0.0.1366.768" x="678" y="288" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="677" y="273" />
     <location key="FileChooserDialogImpl.0.0.1366.768" x="487" y="251" />
     <location key="CommitChangelistDialog2.0.0.1366.768" x="506" y="234" />
     <location key="DiffWindow.0.0.1920.1200" x="133" y="102" />
