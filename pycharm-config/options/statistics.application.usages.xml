@@ -2,19 +2,16 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="file-type">
-      <project id="pi-data" values="PLAIN_TEXT,XML,UNKNOWN,Python" />
-      <project id="verso" values="Images,XML,CSS,HTML,JavaScript,PLAIN_TEXT,UNKNOWN" />
-      <project id="skulpt" values="JavaScript,HTML,Images,YAML,Python,ARCHIVE,ReST,PLAIN_TEXT,CSS,UNKNOWN,Native,C++,JSON,XML" />
-      <project id="TapVote" values="HTML,JSHint,CoffeeScript,UNKNOWN,C++,JSON,CSS,PLAIN_TEXT,Images,YAML,PATCH,XML,JavaScript,Stylus,DTD" />
-      <project id="youtube-jukebox" values="XML,HTML,PLAIN_TEXT,UNKNOWN,Python" />
+      <project id="pi-data" values="Python,UNKNOWN,XML,PLAIN_TEXT" />
+      <project id="verso" values="HTML,PLAIN_TEXT,Images,XML,UNKNOWN,CSS,JavaScript" />
+      <project id="skulpt" values="C++,Native,YAML,ReST,Python,CSS,PLAIN_TEXT,JSON,ARCHIVE,Images,UNKNOWN,HTML,XML,JavaScript" />
+      <project id="TapVote" values="CoffeeScript,YAML,Stylus,JavaScript,XML,PATCH,DTD,Python,Images,UNKNOWN,PLAIN_TEXT,SQL,JSON,CSS,JSHint,C++,HTML" />
+      <project id="youtube-jukebox" values="XML,UNKNOWN,HTML,Python,PLAIN_TEXT" />
       <project id="NorthApps" values="UNKNOWN,XML" />
-      <project id="SumTime" values="UNKNOWN,XML,CSS,HTML,PLAIN_TEXT,JavaScript" />
-      <project id="northapps" values="PLAIN_TEXT,XML,CSS,JavaScript,UNKNOWN,HTML" />
-      <project id="alpha-recycle" values="Images,JavaScript,XML,HTML,PLAIN_TEXT,UNKNOWN,CSS" />
-      <project id="runestone" values="JavaScript,XML,CSS,HTML,YAML,UNKNOWN,ARCHIVE,ReST,PLAIN_TEXT,Web2Py,Native,JSON,Images,Python,C++" />
-    </group>
-    <group name="run-configuration-type">
-      <project id="youtube-jukebox" values="PythonConfigurationType" />
+      <project id="SumTime" values="UNKNOWN,XML,PLAIN_TEXT,JavaScript,HTML,CSS" />
+      <project id="northapps" values="UNKNOWN,XML,PLAIN_TEXT,HTML,CSS,JavaScript" />
+      <project id="alpha-recycle" values="CSS,UNKNOWN,PLAIN_TEXT,JavaScript,HTML,Images,XML" />
+      <project id="runestone" values="JavaScript,ReST,XML,CSS,C++,Native,Images,PLAIN_TEXT,HTML,JSON,YAML,UNKNOWN,ARCHIVE,Web2Py,Python" />
     </group>
     <group name="JavaScript versions">
       <project id="pi-data" values="DEFAULT" />
@@ -28,18 +25,6 @@
       <project id="alpha-recycle" values="DEFAULT" />
       <project id="runestone" values="DEFAULT" />
     </group>
-    <group name="py-interpreter">
-      <project id="pi-data" values="Python 2.7.4" />
-      <project id="verso" values="Python 3.3.1" />
-      <project id="skulpt" values="Python 3.3.1" />
-      <project id="TapVote" values="Python 2.7.4" />
-      <project id="youtube-jukebox" values="Python 2.7.4" />
-      <project id="NorthApps" values="Python 3.3.1" />
-      <project id="SumTime" values="Python 3.3.1" />
-      <project id="northapps" values="Python 3.3.1" />
-      <project id="alpha-recycle" values="Python 2.7.4" />
-      <project id="runestone" values="Python 2.7.4" />
-    </group>
     <group name="vcs">
       <project id="pi-data" values="Git" />
       <project id="verso" values="Git" />
@@ -52,6 +37,26 @@
       <project id="alpha-recycle" values="Git" />
       <project id="runestone" values="Git" />
     </group>
+    <group name="run-configuration-type-temp">
+      <project id="pi-data" values="PythonConfigurationType" />
+      <project id="skulpt" values="PythonConfigurationType" />
+      <project id="runestone" values="tests.Unittests,PythonConfigurationType" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="youtube-jukebox" values="PythonConfigurationType" />
+    </group>
+    <group name="py-interpreter">
+      <project id="pi-data" values="Python 2.7.4" />
+      <project id="verso" values="Python 3.3.1" />
+      <project id="skulpt" values="Python 3.3.1" />
+      <project id="TapVote" values="Python 2.7.4" />
+      <project id="youtube-jukebox" values="Python 2.7.4" />
+      <project id="NorthApps" values="Python 3.3.1" />
+      <project id="SumTime" values="Python 3.3.1" />
+      <project id="northapps" values="Python 3.3.1" />
+      <project id="alpha-recycle" values="Python 2.7.4" />
+      <project id="runestone" values="Python 2.7.4" />
+    </group>
     <group name="javaScript Scope Usages">
       <project id="pi-data" values="Project,Project" />
       <project id="verso" values="Project,Project" />
@@ -62,11 +67,6 @@
       <project id="SumTime" values="Project,Project" />
       <project id="northapps" values="Project,Project" />
       <project id="alpha-recycle" values="Project,Project" />
-    </group>
-    <group name="run-configuration-type-temp">
-      <project id="pi-data" values="PythonConfigurationType" />
-      <project id="skulpt" values="PythonConfigurationType" />
-      <project id="runestone" values="tests.Unittests,PythonConfigurationType" />
     </group>
     <group name="module type">
       <project id="pi-data" values="PYTHON_MODULE" />
