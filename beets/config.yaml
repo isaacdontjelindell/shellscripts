@@ -1,0 +1,6 @@
+directory: /media/DATA/music
+library: ~/library.db
+import:
+    move: yes
+plugins: web
+
