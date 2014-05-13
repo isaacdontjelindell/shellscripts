@@ -4,13 +4,6 @@
     <state version="2" enabled="true" keymap="Default for XWin" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/github/skulpt/src/lib/operator/__init__.js" timestamp="1393982655406">
-        <mark key="'" line="72" column="4" />
-        <mark key="[" line="106" column="78" />
-        <mark key="]" line="57" column="46" />
-        <mark key="^" line="57" column="46" />
-        <mark key="." line="57" column="46" />
-      </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/common/js/bookfuncs.js" timestamp="1377099609380">
         <mark key="[" line="159" column="67" />
         <mark key="]" line="194" column="66" />
@@ -22,6 +15,12 @@
         <mark key="]" line="14" column="2" />
         <mark key="^" line="14" column="2" />
         <mark key="." line="14" column="2" />
+      </file>
+      <file name="$USER_HOME$/github/TapVote/www/footer.html" timestamp="1399245235731">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="8" column="43" />
       </file>
       <file name="$USER_HOME$/github/TapVote/public/javascript/results.js" timestamp="1386607559967">
         <mark key="[" line="13" column="15" />
@@ -40,9 +39,6 @@
         <mark key="]" line="35" column="11" />
         <mark key="^" line="35" column="11" />
         <mark key="." line="35" column="11" />
-      </file>
-      <file name="$USER_HOME$/github/skulpt/src/int.js" timestamp="1393961370606">
-        <mark key="'" line="102" column="10" />
       </file>
       <file name="$USER_HOME$/github/verso/verso.js" timestamp="1389375623708">
         <mark key="[" line="1" column="38" />
@@ -92,11 +88,11 @@
         <mark key="^" line="3" column="29" />
         <mark key="." line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/github/TapVote/www/index.html" timestamp="1396987335149">
+      <file name="$USER_HOME$/github/TapVote/www/index.html" timestamp="1399243366818">
         <mark key="[" line="27" column="51" />
-        <mark key="]" line="27" column="57" />
-        <mark key="^" line="27" column="57" />
-        <mark key="." line="27" column="57" />
+        <mark key="]" line="27" column="60" />
+        <mark key="." line="27" column="60" />
+        <mark key="^" line="27" column="60" />
       </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/thinkcspy/conf.py" timestamp="1375818162251">
         <mark key="[" line="30" column="1" />
@@ -127,12 +123,6 @@
         <mark key="]" line="13" column="54" />
         <mark key="^" line="13" column="54" />
         <mark key="." line="13" column="54" />
-      </file>
-      <file name="$USER_HOME$/github/skulpt/src/str.js" timestamp="1393980775124">
-        <mark key="'" line="799" column="49" />
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="288" column="0" />
-        <mark key="." line="288" column="0" />
       </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/common/js/intro.min.js" timestamp="1375711212128">
         <mark key="[" line="0" column="0" />
@@ -218,9 +208,6 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/github/skulpt/src/tuple.js" timestamp="1393960032415">
-        <mark key="'" line="199" column="75" />
-      </file>
       <file name="$USER_HOME$/github/TapVote/www/javascript/admin.js" timestamp="1394144473210">
         <mark key="[" line="187" column="0" />
         <mark key="]" line="187" column="0" />
@@ -250,6 +237,12 @@
         <mark key="^" line="5" column="47" />
         <mark key="." line="5" column="47" />
       </file>
+      <file name="$USER_HOME$/github/TapVote/www/javascript/results.js" timestamp="1399407316348">
+        <mark key="[" line="68" column="99" />
+        <mark key="]" line="68" column="106" />
+        <mark key="." line="68" column="106" />
+        <mark key="^" line="68" column="106" />
+      </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/controllers/default.py" timestamp="1377099618308">
         <mark key="[" line="54" column="88" />
         <mark key="]" line="54" column="78" />
@@ -262,11 +255,11 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/github/TapVote/www/javascript/takesurvey.js" timestamp="1397593737499">
-        <mark key="[" line="127" column="18" />
-        <mark key="]" line="127" column="73" />
-        <mark key="." line="127" column="73" />
-        <mark key="^" line="127" column="73" />
+      <file name="$USER_HOME$/github/TapVote/www/javascript/takesurvey.js" timestamp="1399407265102">
+        <mark key="[" line="52" column="96" />
+        <mark key="]" line="52" column="105" />
+        <mark key="^" line="52" column="105" />
+        <mark key="." line="52" column="105" />
       </file>
       <file name="$USER_HOME$/github/TapVote/tests/00-setup.js" timestamp="1394143689430">
         <mark key="]" line="6" column="22" />
@@ -278,9 +271,6 @@
         <mark key="]" line="67" column="23" />
         <mark key="^" line="67" column="23" />
         <mark key="." line="67" column="23" />
-      </file>
-      <file name="$USER_HOME$/github/skulpt/src/dict.js" timestamp="1393956730565">
-        <mark key="'" line="465" column="9" />
       </file>
       <file name="$USER_HOME$/github/TapVote/public/footer.html" timestamp="1392603487141">
         <mark key="[" line="3" column="16" />
@@ -299,13 +289,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="9" column="16" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/skulpt/src/lib/string/__init__.js" timestamp="1393980002421">
-        <mark key="a" line="5" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="29" column="53" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/source/_templates/plugin_layouts/sphinx_bootstrap/layout.html" timestamp="1377099875349">
         <mark key="[" line="295" column="50" />
@@ -336,6 +319,12 @@
         <mark key="]" line="48" column="26" />
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
+      </file>
+      <file name="$USER_HOME$/github/TapVote/www/createsurvey.html" timestamp="1399581610792">
+        <mark key="[" line="28" column="80" />
+        <mark key="]" line="28" column="87" />
+        <mark key="." line="28" column="87" />
+        <mark key="^" line="28" column="87" />
       </file>
       <file name="$USER_HOME$/github/TapVote/tests/db-recordVote.js" timestamp="1392931324350">
         <mark key="[" line="0" column="0" />
@@ -409,9 +398,6 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/github/skulpt/src/number.js" timestamp="1393985934950">
-        <mark key="'" line="20" column="41" />
-      </file>
       <file name="$USER_HOME$/github/verso/views/search.html" timestamp="1389398288245">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="33" />
@@ -460,8 +446,8 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/github/TapVote/www/javascript/site.js" timestamp="1394144397884">
-        <mark key="'" line="11" column="0" />
+      <file name="$USER_HOME$/github/TapVote/www/javascript/site.js" timestamp="1399407215293">
+        <mark key="[" line="62" column="0" />
       </file>
       <file name="$USER_HOME$/github/TapVote/routes/addAnswers.js" timestamp="1392594627236">
         <mark key="[" line="64" column="32" />
@@ -469,25 +455,11 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="$USER_HOME$/github/skulpt/src/builtin.js" timestamp="1393985905351">
-        <mark key="'" line="354" column="4" />
-        <mark key="[" line="823" column="8" />
-        <mark key="]" line="823" column="7" />
-        <mark key="^" line="823" column="7" />
-        <mark key="." line="823" column="7" />
-      </file>
       <file name="$USER_HOME$/github/TapVote/tests/createSurvey.js" timestamp="1386954845246">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="15" column="6" />
         <mark key="^" line="15" column="6" />
         <mark key="." line="15" column="6" />
-      </file>
-      <file name="$USER_HOME$/github/skulpt/src/list.js" timestamp="1393974743394">
-        <mark key="'" line="501" column="32" />
-        <mark key="[" line="118" column="71" />
-        <mark key="]" line="118" column="71" />
-        <mark key="^" line="118" column="71" />
-        <mark key="." line="118" column="71" />
       </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/.gitignore" timestamp="1375994967220">
         <mark key="[" line="31" column="0" />
@@ -506,6 +478,12 @@
         <mark key="]" line="7" column="89" />
         <mark key="^" line="7" column="89" />
         <mark key="." line="7" column="89" />
+      </file>
+      <file name="$USER_HOME$/github/TapVote/www/javascript/editsurvey.js" timestamp="1399407295966">
+        <mark key="[" line="54" column="81" />
+        <mark key="]" line="54" column="89" />
+        <mark key="^" line="54" column="89" />
+        <mark key="." line="54" column="89" />
       </file>
       <file name="$USER_HOME$/github/TapVote/tests/before-each.js" timestamp="1392779754291">
         <mark key="[" line="4" column="0" />
@@ -589,18 +567,17 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
+      <file name="$USER_HOME$/github/TapVote/www/editsurvey.html" timestamp="1399581618935">
+        <mark key="[" line="15" column="80" />
+        <mark key="]" line="15" column="87" />
+        <mark key="^" line="15" column="87" />
+        <mark key="." line="15" column="87" />
+      </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/newprojecttest/conf.py" timestamp="1375890607556">
         <mark key="[" line="34" column="43" />
         <mark key="]" line="92" column="31" />
         <mark key="^" line="92" column="31" />
         <mark key="." line="92" column="31" />
-      </file>
-      <file name="$USER_HOME$/github/skulpt/src/abstract.js" timestamp="1393985368542">
-        <mark key="a" line="503" column="0" />
-        <mark key="[" line="392" column="0" />
-        <mark key="]" line="392" column="0" />
-        <mark key="^" line="521" column="50" />
-        <mark key="." line="392" column="0" />
       </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/learncs/pavement.py" timestamp="1375988708561">
         <mark key="[" line="11" column="30" />
@@ -614,20 +591,23 @@
         <mark key="^" line="7" column="65" />
         <mark key="." line="7" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1397594195028">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/TapVote/www/css/style.css" timestamp="1395195293039">
-        <mark key="[" line="345" column="3" />
-        <mark key="]" line="348" column="3" />
-        <mark key="^" line="348" column="3" />
-        <mark key="." line="348" column="3" />
+      <file name="$USER_HOME$/github/TapVote/www/css/style.css" timestamp="1399409477271">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/overview/index.rst" timestamp="1375883781086">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="30" column="2" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/TapVote/index.js" timestamp="1398371617570">
+        <mark key="[" line="46" column="1" />
+        <mark key="]" line="46" column="2" />
+        <mark key="^" line="46" column="2" />
+        <mark key="." line="46" column="2" />
       </file>
       <file name="$USER_HOME$/github/TapVote/temp.txt" timestamp="1381264026442">
         <mark key="[" line="0" column="2" />
@@ -665,38 +645,18 @@
         <mark key="^" line="56" column="61" />
         <mark key="." line="56" column="52" />
       </file>
-      <file name="$USER_HOME$/github/TapVote/www/results.html" timestamp="1396987347058">
-        <mark key="[" line="8" column="75" />
+      <file name="$USER_HOME$/github/TapVote/www/results.html" timestamp="1398197742564">
+        <mark key="[" line="8" column="3" />
         <mark key="]" line="8" column="77" />
         <mark key="^" line="8" column="77" />
         <mark key="." line="8" column="77" />
       </file>
-      <file name="$USER_HOME$/github/TapVote/www/javascript/createsurvey.js" timestamp="1394144475823">
+      <file name="$USER_HOME$/github/TapVote/www/javascript/createsurvey.js" timestamp="1399245478136">
         <mark key="'" line="77" column="10" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+        <mark key="^" line="13" column="10" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="33" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="214" column="29" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="126" column="22" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="235" column="30" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="265" column="28" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="199" column="75" filename="$USER_HOME$/github/skulpt/src/tuple.js" />
-      <jump line="305" column="0" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="487" column="28" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="521" column="0" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="268" column="0" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="915" column="69" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="144" column="38" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="422" column="15" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="888" column="37" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="24" column="4" filename="$USER_HOME$/github/skulpt/src/int.js" />
-      <jump line="1" column="14" filename="$USER_HOME$/github/skulpt/src/int.js" />
-      <jump line="7" column="47" filename="$USER_HOME$/github/skulpt/src/int.js" />
-      <jump line="11" column="42" filename="$USER_HOME$/github/skulpt/src/int.js" />
       <jump line="14" column="8" filename="$USER_HOME$/github/skulpt/src/int.js" />
       <jump line="22" column="4" filename="$USER_HOME$/github/skulpt/src/int.js" />
       <jump line="101" column="8" filename="$USER_HOME$/github/skulpt/src/int.js" />
@@ -779,68 +739,78 @@
       <jump line="129" column="26" filename="$USER_HOME$/github/TapVote/www/javascript/results.js" />
       <jump line="121" column="8" filename="$USER_HOME$/github/TapVote/www/javascript/results.js" />
       <jump line="245" column="10" filename="$USER_HOME$/github/TapVote/www/javascript/takesurvey.js" />
+      <jump line="14" column="10" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
+      <jump line="135" column="0" filename="$USER_HOME$/github/TapVote/www/javascript/results.js" />
+      <jump line="61" column="53" filename="$USER_HOME$/github/TapVote/www/javascript/site.js" />
+      <jump line="158" column="0" filename="$USER_HOME$/github/TapVote/www/javascript/results.js" />
+      <jump line="49" column="8" filename="$USER_HOME$/github/TapVote/www/javascript/editsurvey.js" />
+      <jump line="63" column="35" filename="$USER_HOME$/github/TapVote/www/javascript/editsurvey.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/github/TapVote/www/javascript/editsurvey.js" />
+      <jump line="407" column="11" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
+      <jump line="422" column="12" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
+      <jump line="61" column="1" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
+      <jump line="101" column="1" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
+      <jump line="108" column="1" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
+      <jump line="115" column="1" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
+      <jump line="121" column="1" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
+      <jump line="150" column="0" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
+      <jump line="204" column="14" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
+      <jump line="315" column="32" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
+      <jump line="184" column="0" filename="$USER_HOME$/github/TapVote/www/css/style.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuc3dlckRpdi4K</text>
+      <register name="&quot;" type="4">
+        <text>Choice</text>
       </register>
       <register name="-" type="4">
-        <text>SurveyInfo</text>
+        <text>Choice</text>
       </register>
       <register name="/" type="4">
-        <text>Treating</text>
+        <text>pure-button-success</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2VuZCB2b3RlIGZvciBuZXdseSBzZWxlY3QgYW5zd2VyLCBhbmQgcmVtZW1iZXIgdGhpcyB2b3RlIChzbyB0aGF0IHdlIGNhbiBwcm9wZXJseQogICAgICAgICAgICAvLyBkZVZvdGUgaWYgdGhlIHVzZXIgY2hhbmdlcyB0aGVpciB2b3RlKQogICAgICAgICAgICBwcmV2aW91c01DU1JbcXVlc3Rpb25JZF0gPSBhbnN3ZXJJZDsKICAgICAgICAgICAgc3VibWl0Vm90ZShxdWVzdGlvbklkLCBhbnN3ZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJyAgICAgPGlucHV0IHR5cGU9InRleHQiIHBsYWNlaG9sZGVyPSJBbnN3ZXIgQ2hvaWNlIiBjbGFzcz0iYW5zd2VyLXRleHQgbm8td3JhcCIgLz4nICsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuc3dlckRpdi4K</text>
+      <register name="1" type="4">
+        <text>Choice</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>Choice</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMyM0NCNTYK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFuc3dlci52b3RlZCkgewo=</text>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICQoImlucHV0W3R5cGU9J3RleHQnXSIpLnRyaWdnZXIoImZvY3VzIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocXVlc3Rpb25UeXBlID09ICJGUiIpCiAgICAgICAgICAgICAgICAgICAgICAgIHByZXZpb3VzRlJbcXVlc3Rpb25JZF0gPSBhbnN3ZXJJZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vY29uc29sZS5sb2cocmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGxpIGNsYXNzPSJkaXNhYmxlZCI+PGEgaHJlZj0iamF2YXNjcmlwdDpjcmVhdGVRdWVzdGlvbignTUNSQU5LJykiPk11bHRpcGxlIENob2ljZSwgUmFua2VkIFJlc3BvbnNlPC9hPjwvbGk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Treating</last-search>
+      <last-search>pure-button-success</last-search>
       <last-offset />
-      <last-pattern>Treating</last-pattern>
+      <last-pattern>pure-button-success</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>neg</entry>
-        <entry>bool</entry>
-        <entry>negative</entry>
-        <entry>xor</entry>
-        <entry>inv</entry>
-        <entry>index</entry>
-        <entry>split</entry>
-        <entry>join</entry>
         <entry>['join</entry>
         <entry>del</entry>
         <entry>TODO</entry>
@@ -853,6 +823,14 @@
         <entry>px</entry>
         <entry>treating</entry>
         <entry>Treating</entry>
+        <entry>question-title</entry>
+        <entry>console.log</entry>
+        <entry>question</entry>
+        <entry>takesurvey</entry>
+        <entry>success-button</entry>
+        <entry>success</entry>
+        <entry>highlight-green</entry>
+        <entry>pure-button-success</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
@@ -861,19 +839,19 @@
         <entry>:w</entry>
         <entry encoding="base64">Pnc=</entry>
         <entry>120</entry>
-        <entry>e</entry>
         <entry>94</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>ws</entry>
         <entry>w\</entry>
         <entry>ew</entry>
-        <entry>Lw</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>we</entry>
         <entry>&quot;w</entry>
         <entry>wq</entry>
+        <entry>we</entry>
+        <entry>Lw</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

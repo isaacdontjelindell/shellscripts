@@ -821,6 +821,18 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.latte">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.jantvrdik.intellij.latte" />
+              <option name="myBundled" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.libd">
       <plugins>
         <option name="myPlugins">

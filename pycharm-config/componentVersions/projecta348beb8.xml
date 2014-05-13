@@ -1,36 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <component name="ChangeListManager" version="1397789773992" />
-  <component name="ChangesViewManager" version="1397789773996" />
-  <component name="CreatePatchCommitExecutor" version="1397789774004" />
-  <component name="DaemonCodeAnalyzer" version="1397789774004" />
-  <component name="Encoding" version="1397789774009" />
-  <component name="ExecutionTargetManager" version="1397789774009" />
-  <component name="FavoritesManager" version="1397789774010" />
-  <component name="FileEditorManager" version="1397789825776" />
-  <component name="FindManager" version="1397595362206" />
-  <component name="Git.Settings" version="1397789774017" />
+  <component name="BookmarkManager" version="1399581620317" />
+  <component name="ChangeListManager" version="1399581668126" />
+  <component name="ChangesViewManager" version="1399581620321" />
+  <component name="CreatePatchCommitExecutor" version="1399581620323" />
+  <component name="DaemonCodeAnalyzer" version="1399581620323" />
+  <component name="Encoding" version="1399581620328" />
+  <component name="ExecutionTargetManager" version="1399581620328" />
+  <component name="FavoritesManager" version="1399581620328" />
+  <component name="FileEditorManager" version="1399581620333" />
+  <component name="FindManager" version="1399581620333" />
+  <component name="Git.Settings" version="1399581620333" />
   <component name="GitLogSettings" version="1395345204158" />
-  <component name="IdeDocumentHistory" version="1397789774018" />
-  <component name="ProjectFrameBounds" version="1397789774058" />
-  <component name="ProjectLevelVcsManager" version="1397789774059" />
-  <component name="ProjectModuleManager" version="1397789774060" />
-  <component name="ProjectReloadState" version="1397789774060" />
-  <component name="ProjectRootManager" version="1397789774060" />
-  <component name="ProjectView" version="1397789825780" />
-  <component name="PropertiesComponent" version="1397789774060" />
+  <component name="IdeDocumentHistory" version="1399581620335" />
+  <component name="ProjectFrameBounds" version="1399581668133" />
+  <component name="ProjectLevelVcsManager" version="1399581620425" />
+  <component name="ProjectModuleManager" version="1399581620426" />
+  <component name="ProjectReloadState" version="1399581620426" />
+  <component name="ProjectRootManager" version="1399581620427" />
+  <component name="ProjectView" version="1399406442387" />
+  <component name="PropertiesComponent" version="1399581620427" />
   <component name="PyConsoleOptionsProvider" version="1396381237003" />
   <component name="RecentsManager" version="1392781719223" />
-  <component name="RunManager" version="1397789774077" />
-  <component name="ShelveChangesManager" version="1397789774082" />
-  <component name="TaskManager" version="1397789774104" />
+  <component name="RunManager" version="1399581620449" />
+  <component name="ShelveChangesManager" version="1399581620450" />
+  <component name="TaskManager" version="1399581620466" />
   <component name="TodoView" version="1395196562526" />
-  <component name="ToolWindowManager" version="1397790205161" />
-  <component name="Vcs.Log.UiProperties" version="1397789774109" />
-  <component name="VcsContentAnnotationSettings" version="1397789774119" />
-  <component name="VcsDirectoryMappings" version="1397789774120" />
-  <component name="VcsManagerConfiguration" version="1397789774123" />
-  <component name="XDebuggerManager" version="1397789774147" />
-  <component name="editorHistoryManager" version="1397789825802" />
+  <component name="ToolWindowManager" version="1399581668139" />
+  <component name="Vcs.Log.UiProperties" version="1399581620469" />
+  <component name="VcsContentAnnotationSettings" version="1399581620470" />
+  <component name="VcsDirectoryMappings" version="1399581620470" />
+  <component name="VcsManagerConfiguration" version="1399581620471" />
+  <component name="XDebuggerManager" version="1399581620479" />
+  <component name="editorHistoryManager" version="1399581620481" />
 </versions>
 
