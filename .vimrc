@@ -89,3 +89,5 @@ syntax on
 au BufRead,BufNewFile *.go set filetype=go
 au BufRead,BufNewFile *.md set filetype=markdown
 
+set backspace=2
+
