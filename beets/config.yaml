@@ -1,5 +1,5 @@
 directory: /media/DATA/music
-library: ~/library.db
+library: ~/.config/beets/library.db
 import:
     move: yes
 plugins: web
