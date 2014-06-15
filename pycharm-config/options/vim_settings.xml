@@ -328,11 +328,11 @@
         <mark key="^" line="13" column="107" />
         <mark key="." line="16" column="68" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/public/index.css" timestamp="1402860862245">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="20" column="15" />
+      <file name="$USER_HOME$/github/jsonator/public/index.css" timestamp="1402862773884">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="15" />
       </file>
       <file name="$USER_HOME$/github/TapVote/public/javascript/404.js" timestamp="1386621643052">
         <mark key="[" line="13" column="0" />
@@ -491,12 +491,12 @@
         <mark key="^" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/public/index.js" timestamp="1402847575393">
+      <file name="$USER_HOME$/github/jsonator/public/index.js" timestamp="1402862784566">
         <mark key="a" line="29" column="8" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="26" column="7" />
-        <mark key="^" line="26" column="7" />
-        <mark key="." line="26" column="7" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="50" column="33" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/.gitignore" timestamp="1375994967220">
         <mark key="[" line="31" column="0" />
@@ -644,12 +644,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/public/index.html" timestamp="1402810446817">
-        <mark key="a" line="9" column="0" />
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="10" column="44" />
-        <mark key="." line="10" column="44" />
-        <mark key="^" line="10" column="44" />
+      <file name="$USER_HOME$/github/jsonator/public/index.html" timestamp="1402862053183">
+        <mark key="a" line="8" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="51" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/github/jsonator/node_modules/index.html" timestamp="1402255005086">
         <mark key="a" line="9" column="9" />
@@ -845,43 +845,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoZW1lOiAibGlnaHQtdGFibGUiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>floating</text>
+        <text>black</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZG5qc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAne3tsb3JlbSgxLCBcIndvcmQxXCIpfX0nLFxuXAo=</text>
+        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDJweCAycHggNXB4IDBweCByZ2JhKDUwLCA1MCwgNTAsIDAuNzUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoZW1lOiAibGlnaHQtdGFibGUiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzY2hlbWFPYmopOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHRoZW1lOiAibGlnaHQtdGFibGUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qYm94LXNoYWRvdzogMnB4IDJweCA1cHggMHB4IHJnYmEoNTAsIDUwLCA1MCwgMC43NSk7Ki8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qYm9yZGVyLWJvdHRvbTogc29saWQgMXB4IGdyZXk7Ki8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qYm94LXNoYWRvdzogMnB4IDJweCA1cHggMHB4IHJnYmEoNTAsIDUwLCA1MCwgMC43NSk7Ki8K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gVE9ETyBkYXRlCg==</text>
+      <register name="7" type="4">
+        <text>black</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMyZTJlMmU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0cy5mbG9hdGluZyA9IGZ1bmN0aW9uICgpIHsgLyogVE9ETyAqLyB9Owo=</text>
+        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDJweCAycHggNXB4IDBweCByZ2JhKDUwLCA1MCwgNTAsIDAuNzUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -934,9 +934,9 @@
         <entry>Lw</entry>
         <entry>e</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>ww</entry>
         <entry>we</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
