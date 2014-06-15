@@ -9,58 +9,17 @@
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages/docutils-0.10-py2.7.egg" />
-            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages/Pygments-1.6-py2.7.egg" />
-            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages/Sphinx-1.2b1-py2.7.egg" />
-            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages/distribute-0.6.10-py2.7.egg" />
             <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages" />
             <root type="simple" url="file:///usr/lib/python2.7" />
             <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
             <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
             <root type="simple" url="file:///usr/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages" />
             <root type="simple" url="file:///usr/lib/python2.7/dist-packages" />
             <root type="simple" url="file:///usr/lib/python2.7/dist-packages/PILcompat" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gst-0.10" />
             <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
-            <root type="simple" url="file:///usr/lib/pymodules/python2.7" />
             <root type="simple" url="file:///usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/ubuntuone-client" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/ubuntuone-control-panel" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/ubuntuone-couch" />
-            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/ubuntuone-storage-protocol" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/user-skeletons" />
             <root type="simple" url="file://$USER_HOME$/.PyCharm30/system/python_stubs/-1247972723" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-0.6c11-py2.7.egg!/" />
           </root>
         </classPath>
         <sourcePath>

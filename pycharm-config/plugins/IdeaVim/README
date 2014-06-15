@@ -1,6 +1,20 @@
 IdeaVim
 =======
 
+<div>
+  <a href="http://teamcity.jetbrains.com/viewType.html?buildTypeId=bt299&guest=1">
+    <img src="http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:bt299)/statusIcon"/>
+  </a>
+  <span>Build<span>
+</div>
+
+<div>
+  <a href="http://teamcity.jetbrains.com/viewType.html?buildTypeId=bt453&guest=1">
+    <img src="http://teamcity.jetbrains.com/app/rest/builds/buildType:(id:bt453)/statusIcon"/>
+  </a>
+  <span>Tests</span>
+</div>
+
 IdeaVim is a Vim emulation plug-in for IDEs based on the IntelliJ platform.
 IdeaVim can be used with IntelliJ IDEA, RubyMine, PyCharm, PhpStorm, WebStorm,
 AppCode and Android Studio.
@@ -10,7 +24,7 @@ Resources:
 * [Plugin homepage](http://plugins.jetbrains.com/plugin/164)
 * [Changelog](https://github.com/JetBrains/ideavim/blob/master/CHANGES.md)
 * [Bug tracker](http://youtrack.jetbrains.com/issues/VIM)
-* [Continuous integration builds](http://teamcity.jetbrains.com/project.html?projectId=IdeaVim)
+* [Continuous integration builds](http://teamcity.jetbrains.com/project.html?projectId=IdeaVim&guest=1)
 * [@IdeaVim](http://twitter.com/ideavim) in Twitter
 
 
@@ -24,6 +38,10 @@ Emulator" menu item. At this point you must use Vim keystrokes in all editors.
 If you wish to disable the plugin, select the "Tools | Vim Emulator" menu so
 it is unchecked. At this point IDE will work with it's regular keyboard
 shortcuts.
+
+Keyboard shortcut conflicts between the Vim emulation and the IDE can be
+resolved via "File | Settings | Vim Emulation", "File | Settings | Keymap"
+and key mapping commands in your ~/.ideavimrc file.
 
 
 Summary of Supported Vim Features
@@ -41,6 +59,7 @@ Supported:
 * Some Ex commands
 * Some [:set options](https://github.com/JetBrains/ideavim/blob/master/doc/set-commands.md)
 * Full Vim regexps for search and search/replace
+* Key mappings
 * Macros
 * Digraphs
 * Command line and search history
@@ -48,13 +67,30 @@ Supported:
 
 Not supported (yet):
 
-* Key mappings
 * Window commands
 * Jump lists
 * Various less used commands
 
-Please see the file [index.txt](https://github.com/JetBrains/ideavim/blob/master/index.txt)
-for a list of commands covered with tests.
+See also:
+
+* [List of recently added commands](https://github.com/JetBrains/ideavim/blob/master/src/com/maddyhome/idea/vim/package-info.java)
+* [List of commands covered with tests](https://github.com/JetBrains/ideavim/blob/master/index.txt)
+* [Top features and bugs](http://youtrack.jetbrains.com/issues/VIM?q=%23Unresolved+sort+by%3A+votes)
+
+
+Files
+-----
+
+* ~/.ideavimrc
+    * Your IdeaVim-specific Vim initialization commands
+
+You can read your ~/.vimrc file from ~/.ideavimrc using this command:
+
+    source ~/.vimrc
+
+Note, that IdeaVim currently parses ~/.ideavimrc file via simple pattern matching,
+see [VIM-669](http://youtrack.jetbrains.com/issue/VIM-669) for proper parsing
+of VimL files.
 
 
 Changes to the IDE
@@ -66,6 +102,8 @@ The IdeaVim plugin uses the undo/redo functionality of the IntelliJ platform,
 so the behaviour of the `u` and `<C-R>` commands may differ from the original
 Vim. Vim compatibility of undo/redo may be improved in the future releases.
 
+See also [unresolved undo issues](http://youtrack.jetbrains.com/issues/VIM?q=%23Unresolved+Help+topic%3A+u).
+
 ### Escape
 
 Using `<Esc>` in dialog windows remains problematic. For most dialog windows
@@ -73,58 +111,25 @@ the Vim emulator is put into the insert mode without the possibility to switch t
 the normal mode. In some dialog windows the normal mode is on by default. The
 usage of the Vim emulator in dialog windows is an area for improvements.
 
-### Menu Changes
-
-In order to emulate the keystrokes used by Vim, several of the default hotkeys
-used by the IDE had to be changed. Below is a list of IDE menus, their default
-keyboard shortcuts, and their new VIM keystrokes.
-
-    File
-         Save All                 Ctrl-S              :w
-
-    Edit
-         Undo                     Ctrl-Z              u
-         Redo                     Ctrl-Shift-Z        Ctrl-R
-         Cut                      Ctrl-X              "+x
-         Copy                     Ctrl-C              "+y
-         Paste                    Ctrl-V              "+P
-         Select All               Ctrl-A              ggVG
-
-    Search
-         Find                     Ctrl-F              /
-         Replace                  Ctrl-R              :s
-         Find Next                F3                  n
-         Find Previous            Shift-F3            N
-
-    View
-         Quick JavaDoc            Ctrl-Q              K
-         Parameter Info           Ctrl-P              Ctrl-Shift-P
-         Swap Panels              Ctrl-U              <None>
-         Recent Files...          Ctrl-E              <None>
-         Type Hierarchy           Ctrl-H              Ctrl-Alt-Shift-H
-
-    Goto
-         Class...                 Ctrl-N              Alt-Shift-N
-         Line...                  Ctrl-G              G
-         Declaration              Ctrl-B              gd
-         Super Method             Ctrl-U              Ctrl-Shift-U
-
-    Code
-         Override Methods...      Ctrl-O              Ctrl-Shift-O
-         Implement Methods...     Ctrl-I              Ctrl-Shift-I
-         Complete Code                                (Only in Insert mode)
-              Basic               Ctrl-Space          Ctrl-Space or Ctrl-N or Ctrl-P
-              Smart Type          Ctrl-Shift-Space    Ctrl-Shift-Space
-              Class Name          Ctrl-Alt-Space      Ctrl-Alt-Space
-         Insert Live Template     Ctrl-J              Ctrl-]
-
-    Tools
-         Version Control
-              Check In Project    Ctrl-K              <None>
+See also [unresolved escape issues](http://youtrack.jetbrains.com/issues/VIM?q=%23Unresolved+Help+topic%3A+i_Esc).
 
 
-Development
------------
+Contributing
+------------
+
+### Where to Start
+
+In order to contribute to IdeaVim you should have some understanding of Java.
+
+See also these docs on the IntelliJ API:
+
+* [IntelliJ architectural overview](http://confluence.jetbrains.com/display/IDEADEV/IntelliJ+IDEA+Architectural+Overview)
+* [IntelliJ plugin development resources](http://confluence.jetbrains.com/display/IDEADEV/PluginDevelopment)
+
+You can start by picking relatively simple tasks that are tagged with
+[#patch_welcome](http://youtrack.jetbrains.com/issues/VIM?q=%23patch_welcome)
+in the issue tracker.
+
 
 ### Development Environment
 

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <code_scheme name="Default (1)">
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <JSCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+  </JSCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -17,6 +20,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="Python">

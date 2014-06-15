@@ -2,16 +2,17 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="file-type">
-      <project id="pi-data" values="PLAIN_TEXT,XML,Python,UNKNOWN" />
-      <project id="verso" values="PLAIN_TEXT,JavaScript,XML,CSS,UNKNOWN,Images,HTML" />
-      <project id="skulpt" values="ReST,YAML,XML,JSON,UNKNOWN,Native,JavaScript,ARCHIVE,C++,Images,CSS,PLAIN_TEXT,HTML,Python" />
-      <project id="TapVote" values="XML,DTD,HTML,YAML,C++,CSS,Python,JSON,SQL,CoffeeScript,Stylus,UNKNOWN,PLAIN_TEXT,PATCH,Images,JSHint,JavaScript" />
-      <project id="youtube-jukebox" values="XML,PLAIN_TEXT,UNKNOWN,HTML,Python" />
+      <project id="pi-data" values="XML,UNKNOWN,PLAIN_TEXT,Python" />
+      <project id="verso" values="XML,CSS,Images,HTML,UNKNOWN,PLAIN_TEXT,JavaScript" />
+      <project id="jsonator" values="UNKNOWN,PLAIN_TEXT,YAML,CSS,JSON,JavaScript,XML,HTML" />
+      <project id="skulpt" values="HTML,CSS,Images,UNKNOWN,JavaScript,ARCHIVE,C++,Native,Python,JSON,YAML,XML,ReST,PLAIN_TEXT" />
+      <project id="TapVote" values="C++,CSS,JSHint,DTD,UNKNOWN,Images,SQL,Python,YAML,CoffeeScript,XML,PLAIN_TEXT,JavaScript,PATCH,JSON,Stylus,HTML" />
+      <project id="youtube-jukebox" values="HTML,XML,PLAIN_TEXT,UNKNOWN,Python" />
       <project id="NorthApps" values="XML,UNKNOWN" />
-      <project id="SumTime" values="XML,PLAIN_TEXT,UNKNOWN,HTML,CSS,JavaScript" />
-      <project id="northapps" values="JavaScript,CSS,UNKNOWN,HTML,PLAIN_TEXT,XML" />
-      <project id="alpha-recycle" values="CSS,PLAIN_TEXT,XML,HTML,JavaScript,UNKNOWN,Images" />
-      <project id="runestone" values="Web2Py,PLAIN_TEXT,HTML,XML,Images,CSS,UNKNOWN,JavaScript,ReST,ARCHIVE,C++,Native,JSON,Python,YAML" />
+      <project id="SumTime" values="XML,CSS,JavaScript,UNKNOWN,PLAIN_TEXT,HTML" />
+      <project id="northapps" values="XML,PLAIN_TEXT,HTML,JavaScript,UNKNOWN,CSS" />
+      <project id="alpha-recycle" values="HTML,CSS,XML,JavaScript,Images,PLAIN_TEXT,UNKNOWN" />
+      <project id="runestone" values="JavaScript,YAML,PLAIN_TEXT,HTML,XML,C++,Python,Images,Native,UNKNOWN,ReST,JSON,CSS,Web2Py,ARCHIVE" />
     </group>
     <group name="run-configuration-type">
       <project id="youtube-jukebox" values="PythonConfigurationType" />
@@ -19,6 +20,7 @@
     <group name="JavaScript versions">
       <project id="pi-data" values="DEFAULT" />
       <project id="verso" values="DEFAULT" />
+      <project id="jsonator" values="DEFAULT" />
       <project id="skulpt" values="DEFAULT" />
       <project id="TapVote" values="DEFAULT" />
       <project id="youtube-jukebox" values="DEFAULT" />
@@ -31,6 +33,7 @@
     <group name="py-interpreter">
       <project id="pi-data" values="Python 2.7.4" />
       <project id="verso" values="Python 3.3.1" />
+      <project id="jsonator" values="Python 2.7.4" />
       <project id="skulpt" values="Python 3.3.1" />
       <project id="TapVote" values="Python 2.7.4" />
       <project id="youtube-jukebox" values="Python 2.7.4" />
@@ -43,6 +46,7 @@
     <group name="vcs">
       <project id="pi-data" values="Git" />
       <project id="verso" values="Git" />
+      <project id="jsonator" values="Git" />
       <project id="skulpt" values="Git" />
       <project id="TapVote" values="Git" />
       <project id="youtube-jukebox" values="Git" />
@@ -55,6 +59,7 @@
     <group name="javaScript Scope Usages">
       <project id="pi-data" values="Project,Project" />
       <project id="verso" values="Project,Project" />
+      <project id="jsonator" values="Project,Project" />
       <project id="skulpt" values="Project,Project" />
       <project id="TapVote" values="Project,Project" />
       <project id="youtube-jukebox" values="Project,Project" />
@@ -66,11 +71,12 @@
     <group name="run-configuration-type-temp">
       <project id="pi-data" values="PythonConfigurationType" />
       <project id="skulpt" values="PythonConfigurationType" />
-      <project id="runestone" values="tests.Unittests,PythonConfigurationType" />
+      <project id="runestone" values="PythonConfigurationType,tests.Unittests" />
     </group>
     <group name="module type">
       <project id="pi-data" values="PYTHON_MODULE" />
       <project id="verso" values="PYTHON_MODULE" />
+      <project id="jsonator" values="PYTHON_MODULE" />
       <project id="skulpt" values="PYTHON_MODULE" />
       <project id="TapVote" values="PYTHON_MODULE" />
       <project id="youtube-jukebox" values="PYTHON_MODULE" />
@@ -83,11 +89,13 @@
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="47" />
+      <entry feature="CreateFile.CreateFileAction" count="55" />
       <entry feature="NewDirectoryProjectAction.Empty project" count="1" />
       <entry feature="execute.PythonConfigurationType.Coverage" count="1" />
       <entry feature="execute.PythonConfigurationType.Debug" count="4" />
       <entry feature="execute.PythonConfigurationType.Run" count="41" />
+      <entry feature="ide.settings.Inspections" count="2" />
+      <entry feature="ide.settings.JavaScript" count="1" />
     </counts>
   </component>
 </application>

@@ -79,6 +79,7 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 Bundle 'Valloric/YouCompleteMe'
 Bundle 'marijnh/tern_for_vim'
+Plugin 'lukaszb/vim-web-indent'
 
 call vundle#end()
 

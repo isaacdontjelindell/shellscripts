@@ -2,6 +2,8 @@
 <application>
   <component name="BaseRefactoringSettings">
     <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="SAFE_DELETE_SEARCH_IN_NON_JAVA" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
@@ -116,6 +118,8 @@
       <set />
     </option>
     <option name="PROXY_EXCEPTIONS" value="" />
+    <option name="USE_PAC_URL" value="false" />
+    <option name="PAC_URL" value="" />
   </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
@@ -127,6 +131,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/github/jsonator" />
         <option value="$USER_HOME$/github/TapVote" />
         <option value="$USER_HOME$/github/skulpt" />
         <option value="$USER_HOME$/github/verso" />
@@ -142,23 +147,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/github/TapVote" />
+        <option value="$USER_HOME$/github/jsonator" />
       </list>
     </option>
-    <option name="names">
-      <map>
-        <entry key="$USER_HOME$/github/SumTime" value="" />
-        <entry key="$USER_HOME$/github/alpha-recycle" value="" />
-        <entry key="$USER_HOME$/github/duty-calls" value="" />
-        <entry key="$USER_HOME$/github/northapps" value="" />
-        <entry key="$USER_HOME$/github/northapps/NorthApps" value="" />
-        <entry key="$USER_HOME$/github/pi-data" value="" />
-        <entry key="$USER_HOME$/github/skulpt" value="" />
-        <entry key="$USER_HOME$/github/verso" value="" />
-        <entry key="$USER_HOME$/github/youtube-jukebox" value="" />
-      </map>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/github/TapVote" />
+    <option name="lastPath" value="$USER_HOME$/github/jsonator" />
   </component>
   <component name="Registry">
     <entry key="ide.firstStartup" value="false" />
@@ -171,11 +163,13 @@
       <option name="FOREGROUND" value="c7c7ff" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="ff" />
+      <option name="EFFECT_TYPE" value="0" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
       <option name="FOREGROUND" value="c7c7ff" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="ff" />
+      <option name="EFFECT_TYPE" value="0" />
     </pattern>
   </component>
   <component name="UpdatesConfigurable">
@@ -193,7 +187,7 @@
           <item index="3" class="java.lang.String" itemvalue="pycharm2EAP" />
           <item index="4" class="java.lang.String" itemvalue="pycharm2Beta" />
           <item index="5" class="java.lang.String" itemvalue="pycharm2" />
-          <item index="6" class="java.lang.String" itemvalue="pycharm3EAP" />
+          <item index="6" class="java.lang.String" itemvalue="pycharm3Beta" />
           <item index="7" class="java.lang.String" itemvalue="pycharm3" />
         </list>
       </value>
@@ -204,8 +198,8 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1399581583610" />
-    <option name="LAST_BUILD_CHECKED" value="PY-133.1229" />
+    <option name="LAST_TIME_CHECKED" value="1402786429940" />
+    <option name="LAST_BUILD_CHECKED" value="PY-135.973" />
     <option name="UPDATE_CHANNEL_TYPE" value="eap" />
   </component>
   <component name="VFSTestFrameworkListener">

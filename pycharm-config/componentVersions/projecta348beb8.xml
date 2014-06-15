@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <component name="BookmarkManager" version="1399581620317" />
-  <component name="ChangeListManager" version="1399581668126" />
-  <component name="ChangesViewManager" version="1399581620321" />
-  <component name="CreatePatchCommitExecutor" version="1399581620323" />
-  <component name="DaemonCodeAnalyzer" version="1399581620323" />
-  <component name="Encoding" version="1399581620328" />
-  <component name="ExecutionTargetManager" version="1399581620328" />
-  <component name="FavoritesManager" version="1399581620328" />
-  <component name="FileEditorManager" version="1399581620333" />
+  <component name="BookmarkManager" version="1402245937052" />
+  <component name="ChangeListManager" version="1402245937084" />
+  <component name="ChangesViewManager" version="1402245937084" />
+  <component name="CreatePatchCommitExecutor" version="1402245937086" />
+  <component name="DaemonCodeAnalyzer" version="1402245937086" />
+  <component name="Encoding" version="1402245937103" />
+  <component name="ExecutionTargetManager" version="1402245937103" />
+  <component name="FavoritesManager" version="1402245937108" />
+  <component name="FileEditorManager" version="1402245995395" />
   <component name="FindManager" version="1399581620333" />
-  <component name="Git.Settings" version="1399581620333" />
+  <component name="Git.Settings" version="1402245937115" />
   <component name="GitLogSettings" version="1395345204158" />
-  <component name="IdeDocumentHistory" version="1399581620335" />
-  <component name="ProjectFrameBounds" version="1399581668133" />
-  <component name="ProjectLevelVcsManager" version="1399581620425" />
-  <component name="ProjectModuleManager" version="1399581620426" />
-  <component name="ProjectReloadState" version="1399581620426" />
-  <component name="ProjectRootManager" version="1399581620427" />
-  <component name="ProjectView" version="1399406442387" />
-  <component name="PropertiesComponent" version="1399581620427" />
+  <component name="IdeDocumentHistory" version="1402245937125" />
+  <component name="ProjectFrameBounds" version="1402245937533" />
+  <component name="ProjectLevelVcsManager" version="1402245937533" />
+  <component name="ProjectModuleManager" version="1402245937567" />
+  <component name="ProjectReloadState" version="1402245937567" />
+  <component name="ProjectRootManager" version="1402245937567" />
+  <component name="ProjectView" version="1402245995407" />
+  <component name="PropertiesComponent" version="1402245995408" />
   <component name="PyConsoleOptionsProvider" version="1396381237003" />
   <component name="RecentsManager" version="1392781719223" />
-  <component name="RunManager" version="1399581620449" />
-  <component name="ShelveChangesManager" version="1399581620450" />
-  <component name="TaskManager" version="1399581620466" />
+  <component name="RunManager" version="1402245937636" />
+  <component name="ShelveChangesManager" version="1402245937636" />
+  <component name="TaskManager" version="1402245937723" />
   <component name="TodoView" version="1395196562526" />
-  <component name="ToolWindowManager" version="1399581668139" />
-  <component name="Vcs.Log.UiProperties" version="1399581620469" />
-  <component name="VcsContentAnnotationSettings" version="1399581620470" />
-  <component name="VcsDirectoryMappings" version="1399581620470" />
-  <component name="VcsManagerConfiguration" version="1399581620471" />
-  <component name="XDebuggerManager" version="1399581620479" />
-  <component name="editorHistoryManager" version="1399581620481" />
+  <component name="ToolWindowManager" version="1402245995442" />
+  <component name="Vcs.Log.UiProperties" version="1402245937727" />
+  <component name="VcsContentAnnotationSettings" version="1402245937735" />
+  <component name="VcsDirectoryMappings" version="1402245937735" />
+  <component name="VcsManagerConfiguration" version="1402245937744" />
+  <component name="XDebuggerManager" version="1402245937773" />
+  <component name="editorHistoryManager" version="1402245995475" />
 </versions>
 
