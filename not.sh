@@ -5,7 +5,7 @@
 # For example: "$ sudo apt-get update ; not.sh"
 # The notification will appear after the apt-get completes.
 
-# Usage: You will want to make sure that not.sh is on your PATH.
+# Usage: You will want to make sure that not.sh is in your PATH.
 # I've symlinked not.sh to n (saves some typing).
 
 
