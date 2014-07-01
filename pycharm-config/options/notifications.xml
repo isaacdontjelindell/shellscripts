@@ -24,6 +24,7 @@
     <toolWindow group="Common Version Control Messages" />
     <toolWindow group="Debugger messages" />
     <toolWindow group="Find in Path" />
+    <toolWindow group="Vcs Messages" />
   </component>
 </application>
 

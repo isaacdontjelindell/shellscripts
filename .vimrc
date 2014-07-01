@@ -92,3 +92,5 @@ au BufRead,BufNewFile *.md set filetype=markdown
 
 set backspace=2
 
+set number
+set relativenumber

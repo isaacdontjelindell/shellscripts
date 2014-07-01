@@ -57,7 +57,7 @@
     <location key="RollbackChangesDialog.0.0.2048.1152" x="823" y="331" />
     <location key="DiffWindow.0.0.2048.1152" x="38" y="-4" />
     <location key="git4idea.push.GitPushDialog.1366.0.1280.1024" x="1649" y="318" />
-    <location key="OptionsEditor.0.0.1366.768" x="140" y="31" />
+    <location key="OptionsEditor.0.0.1366.768" x="140" y="24" />
     <location key="findTextDialog.1440.132.1366.768" x="1931" y="282" />
     <location key="OptionsEditor.1366.0.1440.900" x="1476" y="120" />
     <location key="RollbackChangesDialog.1366.0.1280.1024" x="1805" y="246" />
@@ -104,9 +104,12 @@
     <location key="#Vim_Emulation.0.0.1600.900" x="568" y="170" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.900" x="524" y="240" />
     <location key="DiffWindow.0.0.1600.900" x="135" y="124" />
-    <location key="OptionsEditor.0.0.1600.900" x="35" y="24" />
-    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1600.132.1366.768" x="2133" y="138" />
+    <location key="OptionsEditor.0.0.1600.900" x="1725" y="247" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1600.132.1366.768" x="2133" y="156" />
     <location key="OptionsEditor.1600.132.1366.768" x="1683" y="160" />
+    <location key="CommitChangelistDialog2.0.0.1600.900" x="464" y="148" />
+    <location key="git4idea.push.GitPushDialog.0.0.1600.900" x="477" y="163" />
+    <location key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.0.0.1600.900" x="513" y="434" />
     <size key="GridCell.Tab.0.left.1440.132.1366.768" width="1287" height="181" />
     <size key="RollbackChangesDialog.1366.0.1440.900" width="416" height="531" />
     <size key="VCS.ChangelistChooser.1366.0.1440.900" width="364" height="341" />
@@ -239,9 +242,12 @@
     <size key="#Vim_Emulation.0.0.1600.900" width="489" height="553" />
     <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.900" width="568" height="413" />
     <size key="DiffWindow.0.0.1600.900" width="1365" height="704" />
-    <size key="OptionsEditor.0.0.1600.900" width="1565" height="876" />
-    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1600.132.1366.768" width="324" height="762" />
+    <size key="OptionsEditor.0.0.1600.900" width="916" height="539" />
+    <size key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.1600.132.1366.768" width="324" height="744" />
     <size key="OptionsEditor.1600.132.1366.768" width="1224" height="738" />
+    <size key="CommitChangelistDialog2.0.0.1600.900" width="697" height="597" />
+    <size key="git4idea.push.GitPushDialog.0.0.1600.900" width="670" height="568" />
+    <size key="com.intellij.ide.passwordSafe.impl.providers.masterKey.MasterPasswordDialog.0.0.1600.900" width="599" height="110" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
@@ -302,6 +308,7 @@
     <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20.0" />
     <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0.0" />
     <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1.0" />
+    <property name="PLUGIN_FILTER" value="relative line numbers" />
   </component>
 </application>
 

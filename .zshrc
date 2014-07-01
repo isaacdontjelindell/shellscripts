@@ -78,3 +78,6 @@ alias rake="noglob rake"
 unsetopt autonamedirs
 gop () { export GOPATH=$(pwd); echo "Export GOPATH success. Now set to pwd." }
 
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"

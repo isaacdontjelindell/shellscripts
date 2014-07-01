@@ -111,19 +111,24 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/parse/parse.js" timestamp="1402852488269">
-        <mark key="a" line="27" column="10" />
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="17" />
+      <file name="$USER_HOME$/github/jsonator/parse/parse.js" timestamp="1404256263101">
+        <mark key="[" line="86" column="30" />
+        <mark key="]" line="86" column="28" />
+        <mark key="." line="86" column="28" />
+        <mark key="^" line="86" column="28" />
       </file>
       <file name="$USER_HOME$/github/TapVote/public/header.html" timestamp="1386351083853">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="17" />
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/github/jsonator/public/css/index.css" timestamp="1403662258414">
+        <mark key="'" line="10" column="15" />
+        <mark key="[" line="96" column="11" />
+        <mark key="]" line="96" column="15" />
+        <mark key="." line="96" column="15" />
+        <mark key="^" line="96" column="15" />
       </file>
       <file name="$USER_HOME$/github/TapVote/public/takesurvey.html" timestamp="1386457681991">
         <mark key="[" line="3" column="48" />
@@ -227,11 +232,6 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/github/TapVote/www/javascript/admin.js" timestamp="1394144473210">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
-      </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/pythonds/pavement.py" timestamp="1376064863167">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="23" />
@@ -328,11 +328,12 @@
         <mark key="^" line="13" column="107" />
         <mark key="." line="16" column="68" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/public/index.css" timestamp="1402862773884">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="27" column="15" />
+      <file name="$USER_HOME$/github/jsonator/public/index.css" timestamp="1403047831904">
+        <mark key="'" line="64" column="19" />
+        <mark key="[" line="81" column="14" />
+        <mark key="]" line="81" column="12" />
+        <mark key="." line="81" column="12" />
+        <mark key="^" line="81" column="12" />
       </file>
       <file name="$USER_HOME$/github/TapVote/public/javascript/404.js" timestamp="1386621643052">
         <mark key="[" line="13" column="0" />
@@ -388,6 +389,9 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
+      <file name="$USER_HOME$/github/jsonator/public/js/codemirror.js" timestamp="1403666546314">
+        <mark key="'" line="5404" column="54" />
+      </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/models/0.py" timestamp="1376314443230">
         <mark key="[" line="33" column="5" />
         <mark key="]" line="35" column="4" />
@@ -435,6 +439,12 @@
         <mark key="]" line="6" column="33" />
         <mark key="^" line="7" column="34" />
         <mark key="." line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/github/jsonator/parse/generators.js" timestamp="1404171568835">
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="22" column="51" />
       </file>
       <file name="$USER_HOME$/github/TapVote/public/home.html" timestamp="1386523426519">
         <mark key="[" line="2" column="34" />
@@ -491,12 +501,12 @@
         <mark key="^" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/public/index.js" timestamp="1402862784566">
-        <mark key="a" line="29" column="8" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="50" column="33" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/github/jsonator/public/index.js" timestamp="1403358182620">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="71" column="35" />
+        <mark key="]" line="72" column="14" />
+        <mark key="." line="72" column="14" />
+        <mark key="^" line="72" column="14" />
       </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/.gitignore" timestamp="1375994967220">
         <mark key="[" line="31" column="0" />
@@ -533,6 +543,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="63" column="34" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/jsonator/public/js/index.js" timestamp="1404172455632">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/github/TapVote/public/css/include/purecss-buttons-min.css" timestamp="1386263707507">
         <mark key="[" line="0" column="0" />
@@ -576,11 +592,11 @@
         <mark key="^" line="50" column="46" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/package.json" timestamp="1402852361152">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="18" />
+      <file name="$USER_HOME$/github/jsonator/package.json" timestamp="1404078287691">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/common/js/guiders-1.3.0.js" timestamp="1377099422512">
         <mark key="[" line="67" column="43" />
@@ -612,12 +628,12 @@
         <mark key="^" line="15" column="87" />
         <mark key="." line="15" column="87" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/app.js" timestamp="1402852513353">
-        <mark key="'" line="87" column="17" />
-        <mark key="[" line="30" column="46" />
-        <mark key="]" line="31" column="38" />
-        <mark key="^" line="31" column="38" />
-        <mark key="." line="31" column="38" />
+      <file name="$USER_HOME$/github/jsonator/app.js" timestamp="1403653271245">
+        <mark key="'" line="72" column="12" />
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="53" />
+        <mark key="." line="27" column="53" />
+        <mark key="^" line="27" column="53" />
       </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/newprojecttest/conf.py" timestamp="1375890607556">
         <mark key="[" line="34" column="43" />
@@ -644,12 +660,11 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/public/index.html" timestamp="1402862053183">
-        <mark key="a" line="8" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="51" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/github/jsonator/public/index.html" timestamp="1404170849737">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="63" column="5" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/github/jsonator/node_modules/index.html" timestamp="1402255005086">
         <mark key="a" line="9" column="9" />
@@ -664,11 +679,8 @@
         <mark key="^" line="7" column="65" />
         <mark key="." line="7" column="65" />
       </file>
-      <file name="$USER_HOME$/github/TapVote/www/css/style.css" timestamp="1399409477271">
-        <mark key="'" line="188" column="0" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
+      <file name="/Dummy.txt" timestamp="1404172167157">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/jsonator/calc_grammar.jison" timestamp="1402356131385">
         <mark key="a" line="0" column="0" />
@@ -723,11 +735,6 @@
         <mark key="^" line="41" column="54" />
         <mark key="." line="41" column="54" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/parse.js" timestamp="1402254048922">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/modules/luther/sphinx/codelens/visualizer.py" timestamp="1377102122306">
         <mark key="[" line="58" column="65" />
         <mark key="]" line="56" column="52" />
@@ -742,39 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="27" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="285" column="27" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="317" column="26" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="322" column="26" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="382" column="31" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="444" column="68" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="446" column="76" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="470" column="76" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="471" column="66" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="535" column="41" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="556" column="41" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="11" column="15" filename="$USER_HOME$/github/skulpt/src/number.js" />
-      <jump line="501" column="32" filename="$USER_HOME$/github/skulpt/src/list.js" />
-      <jump line="14" column="11" filename="$USER_HOME$/github/skulpt/src/str.js" />
-      <jump line="23" column="4" filename="$USER_HOME$/github/skulpt/src/str.js" />
-      <jump line="256" column="42" filename="$USER_HOME$/github/skulpt/src/str.js" />
-      <jump line="15" column="32" filename="$USER_HOME$/github/skulpt/src/str.js" />
-      <jump line="251" column="15" filename="$USER_HOME$/github/skulpt/src/str.js" />
-      <jump line="337" column="4" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="132" column="20" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="320" column="15" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="321" column="21" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="823" column="8" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="828" column="8" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="844" column="21" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
-      <jump line="288" column="0" filename="$USER_HOME$/github/skulpt/src/str.js" />
-      <jump line="778" column="25" filename="$USER_HOME$/github/skulpt/src/str.js" />
-      <jump line="786" column="29" filename="$USER_HOME$/github/skulpt/src/str.js" />
-      <jump line="799" column="49" filename="$USER_HOME$/github/skulpt/src/str.js" />
-      <jump line="529" column="50" filename="$USER_HOME$/github/skulpt/src/abstract.js" />
-      <jump line="371" column="0" filename="$USER_HOME$/github/skulpt/src/abstract.js" />
-      <jump line="377" column="0" filename="$USER_HOME$/github/skulpt/src/abstract.js" />
-      <jump line="383" column="0" filename="$USER_HOME$/github/skulpt/src/abstract.js" />
       <jump line="392" column="0" filename="$USER_HOME$/github/skulpt/src/abstract.js" />
       <jump line="354" column="4" filename="$USER_HOME$/github/skulpt/src/builtin.js" />
       <jump line="20" column="41" filename="$USER_HOME$/github/skulpt/src/number.js" />
@@ -842,67 +816,96 @@
       <jump line="0" column="0" filename="$USER_HOME$/github/jsonator/generators.js" />
       <jump line="51" column="0" filename="$USER_HOME$/github/jsonator/parse/parse.js" />
       <jump line="24" column="15" filename="$USER_HOME$/github/jsonator/public/index.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/github/jsonator/public/index.css" />
+      <jump line="20" column="14" filename="$USER_HOME$/github/jsonator/public/index.css" />
+      <jump line="12" column="107" filename="$USER_HOME$/github/jsonator/public/index.html" />
+      <jump line="42" column="13" filename="$USER_HOME$/github/jsonator/public/index.css" />
+      <jump line="16" column="4" filename="$USER_HOME$/github/jsonator/public/index.html" />
+      <jump line="18" column="0" filename="$USER_HOME$/github/jsonator/public/index.css" />
+      <jump line="44" column="1" filename="$USER_HOME$/github/jsonator/public/index.html" />
+      <jump line="55" column="0" filename="$USER_HOME$/github/jsonator/public/index.js" />
+      <jump line="41" column="42" filename="$USER_HOME$/github/jsonator/public/index.js" />
+      <jump line="82" column="10" filename="$USER_HOME$/github/jsonator/public/index.css" />
+      <jump line="49" column="12" filename="$USER_HOME$/github/jsonator/app.js" />
+      <jump line="64" column="19" filename="$USER_HOME$/github/jsonator/public/index.css" />
+      <jump line="36" column="0" filename="$USER_HOME$/github/jsonator/public/index.js" />
+      <jump line="53" column="4" filename="$USER_HOME$/github/jsonator/public/index.js" />
+      <jump line="16" column="22" filename="$USER_HOME$/github/jsonator/parse/parse.js" />
+      <jump line="70" column="28" filename="$USER_HOME$/github/jsonator/parse/parse.js" />
+      <jump line="106" column="31" filename="$USER_HOME$/github/jsonator/parse/parse.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/github/jsonator/public/index.js" />
+      <jump line="10" column="15" filename="$USER_HOME$/github/jsonator/public/css/index.css" />
+      <jump line="56" column="21" filename="$USER_HOME$/github/jsonator/public/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/github/jsonator/public/js/codemirror.js" />
+      <jump line="25" column="38" filename="$USER_HOME$/github/jsonator/public/js/codemirror.js" />
+      <jump line="47" column="60" filename="$USER_HOME$/github/jsonator/public/js/codemirror.js" />
+      <jump line="48" column="53" filename="$USER_HOME$/github/jsonator/public/js/codemirror.js" />
+      <jump line="49" column="31" filename="$USER_HOME$/github/jsonator/public/js/codemirror.js" />
+      <jump line="51" column="84" filename="$USER_HOME$/github/jsonator/public/js/codemirror.js" />
+      <jump line="2881" column="54" filename="$USER_HOME$/github/jsonator/public/js/codemirror.js" />
+      <jump line="6860" column="55" filename="$USER_HOME$/github/jsonator/public/js/codemirror.js" />
+      <jump line="7156" column="11" filename="$USER_HOME$/github/jsonator/public/js/codemirror.js" />
+      <jump line="7259" column="38" filename="$USER_HOME$/github/jsonator/public/js/codemirror.js" />
+      <jump line="5404" column="54" filename="$USER_HOME$/github/jsonator/public/js/codemirror.js" />
+      <jump line="41" column="102" filename="$USER_HOME$/github/jsonator/public/js/index.js" />
+      <jump line="128" column="0" filename="$USER_HOME$/github/jsonator/public/js/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoZW1lOiAibGlnaHQtdGFibGUiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjZG5qc1w+</text>
+        <text>CodeMirror.version</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDJweCAycHggNXB4IDBweCByZ2JhKDUwLCA1MCwgNTAsIDAuNzUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdDogInt7Zmlyc3ROYW1lKCkpfX0iLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoZW1lOiAibGlnaHQtdGFibGUiLAo=</text>
+      <register name="1" type="4">
+        <text>1</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRoZW1lOiAibGlnaHQtdGFibGUiCg==</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qYm94LXNoYWRvdzogMnB4IDJweCA1cHggMHB4IHJnYmEoNTAsIDUwLCA1MCwgMC43NSk7Ki8K</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>string</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qYm9yZGVyLWJvdHRvbTogc29saWQgMXB4IGdyZXk7Ki8K</text>
+      <register name="5" type="4">
+        <text>people</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qYm94LXNoYWRvdzogMnB4IDJweCA1cHggMHB4IHJnYmEoNTAsIDUwLCA1MCwgMC43NSk7Ki8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="4">
-        <text>black</text>
+        <text>paragraph</text>
+      </register>
+      <register name="w" type="4">
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMyZTJlMmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdWxsTmFtZTogInt7Zmlyc3ROYW1kZGUoKX19IFguIHt7bGFzdE5hbWUoKX19IiwK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDJweCAycHggNXB4IDBweCByZ2JhKDUwLCA1MCwgNTAsIDAuNzUpOwo=</text>
+      <register name="9" type="4">
+        <text>sentence</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjZG5qc1w+</last-search>
+      <last-search>CodeMirror.version</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjZG5qc1w+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>CodeMirror.version</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>add</entry>
-        <entry>iadd</entry>
-        <entry>inplace</entry>
-        <entry>xhr</entry>
-        <entry>ajax</entry>
-        <entry>console</entry>
-        <entry>px</entry>
         <entry>treating</entry>
         <entry>Treating</entry>
         <entry>question-title</entry>
@@ -916,6 +919,13 @@
         <entry>generateJSON</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxjZG5qc1w+</entry>
+        <entry encoding="base64">XDxoZWFkZXJcPg==</entry>
+        <entry>eval</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry>endpoint</entry>
+        <entry>hide</entry>
+        <entry>version</entry>
+        <entry>CodeMirror.version</entry>
       </history-search>
       <history-cmd>
         <entry>sw</entry>
@@ -929,14 +939,14 @@
         <entry>ws</entry>
         <entry>w\</entry>
         <entry>ew</entry>
-        <entry>W</entry>
         <entry>&quot;w</entry>
         <entry>Lw</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>ww</entry>
         <entry>we</entry>
         <entry>q</entry>
+        <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
