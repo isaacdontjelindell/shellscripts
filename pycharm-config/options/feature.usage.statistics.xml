@@ -37,7 +37,7 @@
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="29" last-shown="0" last-used="1399242773466" shown-count="0" />
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ui.horizontal.scrolling" count="2782" last-shown="0" last-used="1403362607017" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="2784" last-shown="0" last-used="1404665541263" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
       <option name="sparedCharacters" value="740" />

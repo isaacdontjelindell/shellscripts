@@ -77,8 +77,6 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 Plugin 'gmarik/Vundle.vim'
-Bundle 'Valloric/YouCompleteMe'
-Bundle 'marijnh/tern_for_vim'
 Plugin 'lukaszb/vim-web-indent'
 
 call vundle#end()
@@ -89,6 +87,7 @@ syntax on
 
 au BufRead,BufNewFile *.go set filetype=go
 au BufRead,BufNewFile *.md set filetype=markdown
+au BufRead,BufNewFile *.hdl set syntax=off
 
 set backspace=2
 
