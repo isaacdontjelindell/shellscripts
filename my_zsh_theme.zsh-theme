@@ -94,9 +94,27 @@ function git_num_untracked_files() {
   expr `git status --porcelain 2>/dev/null| grep "^??" | wc -l` 
 }
 
+bindkey -v
+bindkey '^P' up-history
+bindkey '^N' down-history
+bindkey '^?' backward-delete-char
+bindkey '^h' backward-delete-char
+bindkey '^w' backward-kill-word
+bindkey '^r' history-incremental-search-backward
+
+
+function zle-line-init zle-keymap-select {
+    VIM_PROMPT="%{$fg[white]%} [% cmd]% %{$reset_color%}"
+    RPROMPT="${${KEYMAP/vicmd/$VIM_PROMPT}/(main|viins)/} $(__git_prompt)$EPS1"
+    zle reset-prompt
+}
+
+zle -N zle-line-init
+zle -N zle-keymap-select
 
 PROMPT="
 $(ssh_connection)%{$fg_bold[white]%}%n%{$reset_color%}%{$fg[white]%}@%{$fg[white]%}%m %{$fg[green]%}%~
 %{$fg[white]%}$ %{$fg[white]%}"
 
-RPROMPT='$(__git_prompt)$(__time_prompt)'
+#RPROMPT='$(__git_prompt)$(__time_prompt)'
+RPROMPT="${${KEYMAP/vicmd/$VIM_PROMPT}/(main|viins)/} $(__git_prompt)$EPS1"

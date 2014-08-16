@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <component name="ChangeListManager" version="1404666405347" />
-  <component name="ChangesViewManager" version="1404665439482" />
-  <component name="CreatePatchCommitExecutor" version="1404665439486" />
-  <component name="DaemonCodeAnalyzer" version="1404665439487" />
-  <component name="Encoding" version="1404665439494" />
-  <component name="ExecutionTargetManager" version="1404665439494" />
-  <component name="FavoritesManager" version="1404665439494" />
-  <component name="FileEditorManager" version="1404665720240" />
-  <component name="FindManager" version="1404665439514" />
-  <component name="Git.Settings" version="1404665439515" />
-  <component name="IdeDocumentHistory" version="1404665642931" />
-  <component name="ProjectCodeStyleSettingsManager" version="1404665439650" />
-  <component name="ProjectFrameBounds" version="1404665439658" />
+  <component name="ChangeListManager" version="1406935569827" />
+  <component name="ChangesViewManager" version="1406935569828" />
+  <component name="CreatePatchCommitExecutor" version="1406935569853" />
+  <component name="DaemonCodeAnalyzer" version="1406935569864" />
+  <component name="Encoding" version="1406935569890" />
+  <component name="ExecutionTargetManager" version="1406935569890" />
+  <component name="FavoritesManager" version="1406935569890" />
+  <component name="FileEditorManager" version="1406935569896" />
+  <component name="FindManager" version="1406132102555" />
+  <component name="Git.Settings" version="1406935569913" />
+  <component name="IdeDocumentHistory" version="1406935569936" />
+  <component name="ProjectCodeStyleSettingsManager" version="1406935570997" />
+  <component name="ProjectFrameBounds" version="1406936418950" />
   <component name="ProjectInspectionProfilesVisibleTreeState" version="1404080994084" />
-  <component name="ProjectLevelVcsManager" version="1404665439658" />
-  <component name="ProjectModuleManager" version="1404665439660" />
-  <component name="ProjectReloadState" version="1404665439660" />
-  <component name="ProjectRootManager" version="1404665439660" />
-  <component name="ProjectView" version="1404665439662" />
-  <component name="PropertiesComponent" version="1404665439662" />
+  <component name="ProjectLevelVcsManager" version="1406935571021" />
+  <component name="ProjectModuleManager" version="1406935571059" />
+  <component name="ProjectReloadState" version="1406935571059" />
+  <component name="ProjectRootManager" version="1406935571059" />
+  <component name="ProjectView" version="1406935571086" />
+  <component name="PropertiesComponent" version="1406935571086" />
   <component name="PyConsoleOptionsProvider" version="1404081377069" />
   <component name="RecentsManager" version="1403666715169" />
-  <component name="RunManager" version="1404665439688" />
-  <component name="ShelveChangesManager" version="1404665439688" />
-  <component name="TaskManager" version="1404665439695" />
-  <component name="ToolWindowManager" version="1404666405361" />
-  <component name="Vcs.Log.UiProperties" version="1404665439697" />
-  <component name="VcsContentAnnotationSettings" version="1404665439698" />
-  <component name="VcsDirectoryMappings" version="1404665439698" />
-  <component name="VcsManagerConfiguration" version="1404665439699" />
-  <component name="XDebuggerManager" version="1404665439722" />
-  <component name="editorHistoryManager" version="1404665720251" />
+  <component name="RunManager" version="1406935571432" />
+  <component name="ShelveChangesManager" version="1406935571432" />
+  <component name="TaskManager" version="1406935571484" />
+  <component name="ToolWindowManager" version="1406936418972" />
+  <component name="Vcs.Log.UiProperties" version="1406935571544" />
+  <component name="VcsContentAnnotationSettings" version="1406935571545" />
+  <component name="VcsDirectoryMappings" version="1406935571545" />
+  <component name="VcsManagerConfiguration" version="1406935571548" />
+  <component name="XDebuggerManager" version="1406935571679" />
+  <component name="editorHistoryManager" version="1406935571683" />
 </versions>
 

@@ -2,17 +2,17 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="file-type">
-      <project id="pi-data" values="XML,UNKNOWN,Python,PLAIN_TEXT" />
-      <project id="verso" values="XML,HTML,JavaScript,Images,PLAIN_TEXT,UNKNOWN,CSS" />
-      <project id="jsonator" values="C++,CSS,JavaScript,HTML,YAML,Images,UNKNOWN,JSHint,PLAIN_TEXT,XML,JSON,CoffeeScript" />
-      <project id="skulpt" values="Native,UNKNOWN,CSS,HTML,C++,Images,PLAIN_TEXT,ReST,XML,Python,JavaScript,YAML,ARCHIVE,JSON" />
-      <project id="TapVote" values="UNKNOWN,CSS,Python,XML,PATCH,PLAIN_TEXT,YAML,JSON,DTD,JSHint,C++,CoffeeScript,Stylus,JavaScript,HTML,SQL,Images" />
-      <project id="youtube-jukebox" values="UNKNOWN,Python,PLAIN_TEXT,XML,HTML" />
+      <project id="pi-data" values="Python,UNKNOWN,XML,PLAIN_TEXT" />
+      <project id="verso" values="CSS,UNKNOWN,Images,XML,JavaScript,PLAIN_TEXT,HTML" />
+      <project id="jsonator" values="UNKNOWN,HTML,C++,CoffeeScript,XML,JSHint,JavaScript,YAML,CSS,Images,JSON,PLAIN_TEXT" />
+      <project id="skulpt" values="Images,Python,PLAIN_TEXT,C++,CSS,YAML,ARCHIVE,JSON,XML,ReST,Native,JavaScript,HTML,UNKNOWN" />
+      <project id="TapVote" values="SQL,UNKNOWN,JSON,PATCH,JavaScript,XML,CoffeeScript,DTD,Stylus,CSS,YAML,Images,JSHint,HTML,C++,PLAIN_TEXT,Python" />
+      <project id="youtube-jukebox" values="PLAIN_TEXT,XML,HTML,UNKNOWN,Python" />
       <project id="NorthApps" values="XML,UNKNOWN" />
-      <project id="SumTime" values="HTML,UNKNOWN,JavaScript,XML,PLAIN_TEXT,CSS" />
-      <project id="northapps" values="PLAIN_TEXT,JavaScript,UNKNOWN,HTML,XML,CSS" />
-      <project id="alpha-recycle" values="Images,UNKNOWN,PLAIN_TEXT,JavaScript,XML,CSS,HTML" />
-      <project id="runestone" values="HTML,Native,UNKNOWN,CSS,C++,XML,Python,ReST,JavaScript,YAML,JSON,Web2Py,PLAIN_TEXT,ARCHIVE,Images" />
+      <project id="SumTime" values="XML,HTML,PLAIN_TEXT,UNKNOWN,JavaScript,CSS" />
+      <project id="northapps" values="JavaScript,UNKNOWN,XML,CSS,HTML,PLAIN_TEXT" />
+      <project id="alpha-recycle" values="HTML,Images,XML,CSS,PLAIN_TEXT,JavaScript,UNKNOWN" />
+      <project id="runestone" values="XML,UNKNOWN,JavaScript,C++,HTML,YAML,Python,Images,Native,CSS,Web2Py,PLAIN_TEXT,JSON,ReST,ARCHIVE" />
     </group>
     <group name="JavaScript versions">
       <project id="pi-data" values="DEFAULT" />
@@ -43,7 +43,7 @@
     <group name="run-configuration-type-temp">
       <project id="pi-data" values="PythonConfigurationType" />
       <project id="skulpt" values="PythonConfigurationType" />
-      <project id="runestone" values="tests.Unittests,PythonConfigurationType" />
+      <project id="runestone" values="PythonConfigurationType,tests.Unittests" />
     </group>
     <group name="run-configuration-type">
       <project id="youtube-jukebox" values="PythonConfigurationType" />

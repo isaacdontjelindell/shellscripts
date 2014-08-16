@@ -111,11 +111,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/parse/parse.js" timestamp="1404256263101">
-        <mark key="[" line="86" column="30" />
-        <mark key="]" line="86" column="28" />
-        <mark key="." line="86" column="28" />
-        <mark key="^" line="86" column="28" />
+      <file name="$USER_HOME$/github/jsonator/parse/parse.js" timestamp="1406132049706">
+        <mark key="[" line="119" column="32" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="24" />
       </file>
       <file name="$USER_HOME$/github/TapVote/public/header.html" timestamp="1386351083853">
         <mark key="[" line="1" column="3" />
@@ -628,11 +628,11 @@
         <mark key="^" line="15" column="87" />
         <mark key="." line="15" column="87" />
       </file>
-      <file name="$USER_HOME$/github/jsonator/app.js" timestamp="1404665636027">
+      <file name="$USER_HOME$/github/jsonator/app.js" timestamp="1406131932440">
         <mark key="'" line="74" column="12" />
-        <mark key="[" line="60" column="51" />
-        <mark key="]" line="66" column="38" />
-        <mark key="." line="66" column="38" />
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
         <mark key="^" line="66" column="38" />
       </file>
       <file name="$USER_HOME$/github/runestone/web2py/applications/runestone/newprojecttest/conf.py" timestamp="1375890607556">
@@ -852,10 +852,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>CodeMirror.version</text>
@@ -864,34 +864,34 @@
         <text encoding="base64">ICAgICAgICBmaXJzdDogInt7Zmlyc3ROYW1lKCkpfX0iLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="4" type="4">
-        <text>string</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>people</text>
+        <text>)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>string</text>
       </register>
       <register name="7" type="4">
-        <text>paragraph</text>
+        <text>people</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmdWxsTmFtZTogInt7Zmlyc3ROYW1kZGUoKX19IFguIHt7bGFzdE5hbWUoKX19IiwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text>sentence</text>
+        <text>paragraph</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
